@@ -1,0 +1,57 @@
+/* languageSwitcher.module.scss */
+
+.switcher {
+  font-size: 0.9rem;
+  font-weight: 600;
+  display: flex;
+}
+
+.languageList {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  // gap: 0.75rem; // 12px
+
+  ul {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.separator {
+  color: #ccc;
+  //margin-right: 0.75rem;
+}
+
+.button {
+  // --- This is the key to making a button look like a link ---
+  background: none;
+  border: none;
+  padding: 0.25rem;
+  margin: 0;
+  font-family: inherit; // Use the same font as the rest of the page
+  font-size: inherit;
+  font-weight: inherit;
+  color: #333; // Standard text color
+  cursor: pointer;
+  // -----------------------------------------------------------
+
+  transition: color 0.2s ease-in-out;
+
+  &:hover {
+    color: #014993; // Your primary blue on hover
+  }
+}
+
+.active {
+  color: #014993;
+  font-weight: 700;
+  // Remove hover effect and pointer when language is active
+  cursor: default;
+
+  &:hover {
+    color: #014993;
+  }
+}

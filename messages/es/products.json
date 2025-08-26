@@ -1,0 +1,430 @@
+{
+  "bl": {
+    "meta": {
+      "title": "Transporte como carga adicional - Stöber Transporte",
+      "desc": "Stöber Transporte - Ahorre costes con un transporte como carga adicional incluso para los envíos más pequeños"
+    },
+    "h1": "Carga adicional",
+    "p1": {
+      "1": "No todo el mundo necesita organizar",
+      "2": "una mudanza ",
+      "3": "completa. A menudo solo hay que encontrar el camino del punto A al B para objetos individuales, como un sofá, una lavadora, unos muebles o unas cajas."
+    },
+    "p2": {
+      "1": "Para ello le ofrecemos el",
+      "2": "transporte",
+      "3": "como carga adicional. Nos aseguramos de que su carga adicional sea transportada de forma rápida y segura dentro de Alemania, pero también a España (península, Mallorca y Baleares)."
+    },
+    "p3": "Con una carga adicional, no solo protege el medioambiente, ya que nuestros vehículos se utilizan de forma más adecuada, sino que también puede optimizar sus gastos.",
+    "p4": "Simplemente pregunte si existe actualmente una opción de conexión para su relación.",
+    "h4": "¿Tiene preguntas sobre una carga adicional?",
+    "img": "Carga adicional dentro de Alemania, pero también a España (península, Mallorca y Baleares)",
+    "li1": "Optimización de nuestro espacio de carga",
+    "li2": "Ofertas interesantes con posibilidad de combinación",
+    "li3": "Transporte del punto A al B",
+    "li4": "Posibilidad de transporte desde o hasta nuestro almacén",
+    "li5": "Posibilidad de almacenar su carga adicional",
+    "btn": {
+      "text": "Enviar una solicitud",
+      "title": "Enviar una solicitud de carga adicional"
+    }
+  },
+  "et": {
+    "meta": {
+      "title": "Vaciado y limpieza de viviendas - Stöber Transporte",
+      "desc": "Vaciado y limpieza de viviendas de forma discreta, rápida y económica - Stöber Transporte"
+    },
+    "h1": "Vaciado",
+    "p1": "Nos encargamos por usted del vaciado de casas, pisos, áticos, sótanos, locales comerciales, edificios o almacenes, así como cenadores, garajes y graneros de forma rápida, económica y discreta.",
+    "p2": "Los objetos y residuos retirados se eliminan o reciclan adecuadamente.",
+    "h2": "Renovación y limpieza",
+    "p3": "Por supuesto, también nos ocuparemos de la renovación y limpieza de las habitaciones si nos lo solicita.",
+    "h4": "¿Tiene alguna pregunta sobre el servicio de vaciado?",
+    "img": "Vaciado y limpieza de viviendas de forma discreta, rápida y económica - Stöber Transporte",
+    "li1": "Desmontaje de muebles",
+    "li2": "Eliminación de revestimientos de suelo y cortinas, etc.",
+    "li3": "Trabajos de renovación y limpieza",
+    "li4": "Limpieza y eliminación profesional",
+    "li5": "Trabajos de pintura y alicatado"
+  },
+  "ex": {
+    "meta": {
+      "title": "Stöber Transporte - Transportes urgentes y exprés",
+      "desc": "Stöber Transporte - Transportes urgentes y exprés con servicio las 24 horas en Alemania y Europa"
+    },
+    "img": "Stöber Transporte - Envíos especiales y entregas exprés",
+    "h1": "Stöber Express - rápido y profesional",
+    "h2": "Envíos especiales y entrega directa:",
+    "p1": "Desde sobres hasta máquinas especiales de varias toneladas de peso: tenemos la solución a su problema de transporte. Servicio 24 horas en Europa, entrega precisa a horas fijas especificadas: estamos ahí cuando nos necesita.",
+    "p2": "Seguimiento GPS para obtener información precisa, transportes exclusivos para sus mercancías. Todo ello en trayectos directos sin más puntos de descarga."
+  },
+  "fz": {
+    "meta": {
+      "title": "Traslados de vehículos en toda Alemania y Europa",
+      "desc": "Traslado de vehículos por toda Alemania y Europa: camiones, autobuses, maquinaria de construcción, tractores, autocaravanas y caravanas"
+    },
+    "h1": "Traslado de vehículos",
+    "h2": {
+      "1": "Camiones, autobuses, maquinaria de construcción, tractores, autocaravanas, caravanas y todo lo que ruede por Alemania y Europa",
+      "2": "Resumen de los servicios"
+    },
+    "h3": {
+      "1": "Traslado de ejes de terceros",
+      "2": "Autocaravanas y caravanas",
+      "3": "Coches nuevos y usados",
+      "4": "Camiones y autobuses",
+      "5": "Maquinaria de construcción",
+      "6": "Control",
+      "7": "Servicio",
+      "8": "Alcance",
+      "9": "Localización GPS",
+      "10": "Vehículos nuevos",
+      "11": "Vehículos arrendados",
+      "12": "Almacenamiento de vehículos",
+      "13": "Exprés"
+    },
+    "p1": "Traslado del vehículo sobre sus propios ejes: enviamos a un conductor formado para llevar su vehículo al lugar deseado. No importa el tipo de vehículo, disponemos de los permisos de conducir y los conocimientos adecuados. Incluso para vehículos no matriculados, disponemos de placas de matrícula rojas.",
+    "p2": "Tanto si no están matriculados como si no están listos para circular, con nuestro transportador de coches y plataforma baja llevamos sus vehículos, desde los más pequeños a los más grandes, de forma segura y fiable a su destino.",
+    "p3": "Traslado directo hacia o desde el destino de vacaciones al nuevo lugar deseado.",
+    "p4": "¿No dispone de tiempo o de la posibilidad de recoger su vehículo nuevo o usado en el concesionario o en la fábrica? La empresa Stöber-Transporte se encarga del traslado del vehículo de forma fiable, segura y puntual para usted.",
+    "p5": "¿Necesita recoger un camión o un autobús del concesionario, de un taller o de otro lugar y no hay ningún empleado con el permiso de conducir adecuado disponible en ese momento? También nos encargamos del traslado de un camión o autobús por usted.",
+    "p6": "Recogida y traslado de maquinaria de construcción directamente a la obra u otro lugar de uso.",
+    "p7": "Antes de la carga, cada vehículo se somete a una cuidadosa inspección de su estado por parte de nuestros conductores capacitados. El estado real se registra mediante un registro electrónico y se puede acceder a él en cualquier momento.",
+    "h4": "¿Tiene alguna pregunta sobre el traslado de vehículos?",
+    "p8": "Traslado de vehículos matriculados o dados de baja, con matrícula roja propia y con cobertura a todo riesgo",
+    "p9": "Traslado de vehículos de todo tipo y tamaño por toda Alemania y Europa",
+    "p10": "para saber en todo momento dónde se encuentra su vehículo",
+    "p11": "Recogida de vehículos nuevos directamente en el concesionario o en la fábrica",
+    "p12": "Devolución de vehículos arrendados al concesionario o a los puntos de recogida",
+    "p13": "Almacenamiento de vehículos en nuestros almacenes climatizados",
+    "p14": "Ahorre dinero con un poco más de tiempo",
+    "btn": {
+      "text": "Enviar una solicitud",
+      "title": "Solicitud de traslado de vehículo"
+    },
+    "img": "Traslado de automóviles, camiones, autobuses, maquinaria de construcción, tractores, autocaravanas, caravanas y cualquier otra cosa que ruede."
+  },
+  "la": {
+    "meta": {
+      "title": "Almacenamiento de muebles y enseres - Stöber Transporte",
+      "desc": "Almacenamiento de muebles, enseres y otras mercancías en una nave climatizada y con calefacción en Stöber Transporte"
+    },
+    "img": "Almacenamiento de muebles y enseres",
+    "h1": "Almacenamiento",
+    "p1": "Nuestro almacén climatizado y con calefacción ofrece espacio suficiente para el almacenamiento provisional a corto plazo de muebles y enseres, palés y cargas generales, etc., y el almacenamiento a largo plazo.",
+    "p2": "Determine el tipo y la duración del almacenamiento y nos adaptaremos a sus necesidades específicas.",
+    "h2": {
+      "1": "Almacenamiento de muebles y enseres",
+      "2": "Almacenamiento de palés, cargas generales, etc."
+    },
+    "p3": "Necesita espacio en su piso, no puede mudarse a tiempo a su nuevo piso o está planeando una estancia más larga en el extranjero. En cualquier caso, puede estar seguro de que sus muebles y artículos para el hogar están seguros con nosotros.",
+    "p4": "Si lo desea, podemos ir a su casa y embalar sus artículos profesionalmente. Para ello, le ofrecemos la posibilidad de elegir entre contenedores o furgonetas para muebles (corlettes) para el almacenamiento de sus muebles y enseres. Para protegerlos contra el polvo, los vehículos se envuelven con una película elástica especial.",
+    "ul1": {
+      "li1": "Almacenamiento en pabellón climatizado y con calefacción",
+      "li2": "en grandes carros de rejilla (corlettes)",
+      "li3": "en contenedores de acero con cerradura",
+      "li4": "Posibilidad de autoentrega o almacenamiento"
+    },
+    "p5": "Debe almacenar un envío de forma esporádica, necesita espacio para sus medios de producción o necesita una opción de almacenamiento especial. Juntos desarrollamos y encontramos una solución a sus necesidades.",
+    "p6": "Por supuesto, también le invitamos a visitar nuestros almacenes de antemano.",
+    "h4": "¿Tiene preguntas sobre el almacenamiento?",
+    "ul2": {
+      "li1": "Almacenamiento temporal a corto plazo a partir de 1 día",
+      "li2": "Recogida de pedidos en nuestro almacén",
+      "li3": "Posibilidad de entrega por nuestra parte",
+      "li4": "Disponibilidad de carretilla elevadora, puente grúa, palés intercambiables, etc."
+    },
+    "btn": {
+      "text": "Enviar una solicitud",
+      "title": "Enviar una solicitud de almacenamiento"
+    }
+  },
+  "ml": {
+    "meta": {
+      "title": "Stöber Transporte - Logística de medios",
+      "desc": "Stöber Transporte también presta servicios regulares de mensajería para periódicos, bancos y compañías de seguros"
+    },
+    "img": "Stöber Transporte - Logística de medios",
+    "h1": "Logística de medios",
+    "p1": "¿Quiere su periódico a tiempo en el buzón? ¡Nosotros nos encargamos!",
+    "p2": "Servicios regulares de mensajería para periódicos, bancos o compañías de seguros. Las empresas de renombre cuentan con nuestro servicio.",
+    "p3": "Recogida en el lugar de impresión, distribución precisa al repartidor.",
+    "p4": "Perfección logística al servicio de nuestros clientes."
+  },
+  "mll": {
+    "meta": {
+      "title": "Elevador de muebles también disponible en alquiler para su mudanza en Stöber Transporte",
+      "desc": "Alquile un elevador de muebles para su mudanza para objetos pesados, grandes o voluminosos en Stöber Transporte"
+    },
+    "images": {
+      "alt": "Imagen de un ",
+      "i1": "Elevador de muebles en un edificio de oficinas",
+      "i2": "Elevador de muebles en un callejón estrecho",
+      "i3": "Elevador de muebles en edificios de difícil acceso",
+      "i4": "Elevador de muebles en escaleras estrechas",
+      "i5": "Elevador de muebles en pisos superiores",
+      "i6": "Elevador de muebles en un edificio con andamios",
+      "i7": "Montacargas para el transporte de electrodomésticos",
+      "i8": "Montacargas a 25 metros de altura"
+    },
+    "h1": "Elevador de muebles",
+    "h2": {
+      "1": "¡Nuestro nuevo elevador de muebles ya está disponible!",
+      "2": "Alquilar un elevador de muebles en la región de Friburgo",
+      "3": "¿Qué es un elevador de muebles y cómo funciona?",
+      "4": "Alquilar un elevador de muebles: Subir en lugar de cargar",
+      "5": "Alquilar un montamuebles y ahorrar costes",
+      "6": "Mudanzas fáciles con el elevador de muebles",
+      "7": "Elevador de muebles para empresas comerciales",
+      "8": "Alquilar un elevador de muebles: ¡Así de fácil!",
+      "10": "Sus ventajas"
+    },
+    "p1": "En Stöber Transporte ponemos a su disposición nuestro «empleado del año»: ¡nuestro elevador de muebles!",
+    "p2": "El elevador de muebles (también llamado elevador inclinado o ascensor de muebles), es muy práctico cuando se trata de transportar objetos pesados, grandes o voluminosos. Nuestro ascensor de muebles está operativo desde el primer piso hasta el octavo.",
+    "btn": {
+      "text": "Enviar una solicitud",
+      "title": "Enviar una solicitud sobre el elevador de muebles"
+    },
+    "p3": "¿Se enfrenta a una mudanza, trabajos de renovación o simplemente necesita transportar objetos voluminosos a pisos superiores? Entonces seguro que conoce los desafíos: escaleras estrechas, muebles pesados y el riesgo de dañar paredes y muebles. ¡Olvídese de cargar tediosamente y de los dolores de espalda! Stöber Transporte le ofrece la solución perfecta:",
+    "p4": "Alquile nuestro moderno elevador de muebles (también llamado elevador inclinado o montamuebles) y experimente un transporte eficiente y sin estrés.",
+    "p5": "Un elevador de muebles, también conocido como elevador inclinado, es un dispositivo de elevación especialmente diseñado para transportar muebles y otros objetos pesados por la fachada de un edificio. Consiste en una plataforma estable unida a un mástil telescópico. El mástil está montado en un vehículo y se puede extender a la altura deseada. Esto permite transportar muebles y otros objetos de forma cómoda y segura hasta los pisos superiores.",
+    "p6": "Nuestro elevador de muebles está disponible para transportes hasta el 8º piso (25 metros de altura de elevación). Ya sean muebles voluminosos como armarios, sofás y camas, electrodomésticos pesados como lavadoras y frigoríficos, o antigüedades delicadas, con nuestro elevador de muebles puede transportar todo de forma segura y cómoda hasta su destino.",
+    "p7": "Las ventajas de nuestro elevador de muebles en detalle:",
+    "ul1": {
+      "li1": "Capacidad de carga: Con una capacidad de carga de hasta 400 kg por transporte, dependiendo del ángulo de inclinación, nuestro elevador de muebles soporta incluso las cargas más pesadas.",
+      "li2": "Flexibilidad: La cesta del elevador de muebles es giratoria y se puede abrir completamente para garantizar una carga y descarga fáciles, incluso con objetos voluminosos.",
+      "li3": "Velocidad: El elevador de muebles se monta y desmonta rápidamente con solo pulsar un botón, por lo que el transporte puede realizarse en minutos. Esto ahorra tiempo y dinero.",
+      "li4": "Seguridad: El elevador de muebles se alquila exclusivamente con uno o dos empleados experimentados que garantizan un funcionamiento seguro y un manejo adecuado de sus muebles. Sus objetos de valor están en buenas manos con nosotros.",
+      "li5": "Protección de la escalera y los muebles: Las escaleras estrechas y los muebles delicados son cosa del pasado. El elevador de muebles permite un transporte suave que protege sus muebles y su escalera.",
+      "li6": "Aplicaciones versátiles: Nuestro elevador de muebles no solo es adecuado para mudanzas privadas, sino también para transportar materiales durante trabajos de renovación, transportar equipos y maquinaria pesados en empresas comerciales o entregar muebles nuevos en viviendas y oficinas."
+    },
+    "p8": "Con nuestro elevador de muebles, no solo ahorra tiempo y esfuerzo, sino también dinero. Gracias al transporte eficiente, reduce el número de ayudantes necesarios y minimiza el riesgo de daños a sus muebles o la escalera.",
+    "p9": "¡Una inversión que se amortiza rápidamente!",
+    "p10": "Una mudanza puede ser estresante. Con nuestro elevador de muebles, alquila un pedazo de relajación. Nuestro personal experimentado se encargará de todo:",
+    "ul2": {
+      "li1": "Asesoramiento profesional: Le asesoramos de forma integral sobre los posibles usos del elevador de muebles y encontramos la solución óptima para sus necesidades individuales.",
+      "li2": "Planificación cuidadosa: Planificamos el uso del elevador de muebles en detalle y tenemos en cuenta todos los factores relevantes, como el estado de su fachada, el tamaño y el peso de los objetos a transportar y las condiciones locales.",
+      "li3": "Montaje y desmontaje seguros: Nuestros empleados se encargan del montaje y desmontaje profesional del elevador de muebles y garantizan una posición segura.",
+      "li4": "Funcionamiento eficiente: El elevador de muebles es operado por nuestro personal experimentado. Usted no tiene que preocuparse por nada.",
+      "li5": "Transporte cuidadoso: Transportamos sus muebles con el máximo cuidado y nos aseguramos de que lleguen seguros e intactos a su destino."
+    },
+    "p11": "Nuestro elevador de muebles también ofrece numerosas ventajas para las empresas comerciales. Ya sea que transporte maquinaria pesada, entregue mercancías o desee ofrecer a sus clientes un servicio especial, nuestro elevador de muebles es la solución ideal.",
+    "p12": "Ventajas para empresas comerciales:",
+    "ul3": {
+      "li1": "Logística eficiente: Acelere sus procesos logísticos y ahorre un tiempo valioso.",
+      "li2": "Mejora de la imagen: Ofrezca a sus clientes un servicio profesional y fiable.",
+      "li3": "Reducción de costes: Reduzca los costes de personal y minimice el riesgo de daños."
+    },
+    "p13": "¿No está seguro de si el uso de un elevador de muebles es posible en su fachada? Simplemente envíenos una foto de su fachada y del área frontal de su casa por correo electrónico (team@stoeber-transporte.de) o WhatsApp. Comprobamos de forma gratuita y sin compromiso si una aplicación es posible y tiene sentido.",
+    "p14": "¡Convénzase de las ventajas de nuestro elevador de muebles y solicite hoy mismo una oferta sin compromiso!",
+    "h4": "¿Tiene preguntas sobre el elevador de muebles?",
+    "ul": {
+      "li1": "El elevador de muebles junto con un operario, directamente a su disposición",
+      "li2": "El elevador de muebles se monta y desmonta rápidamente (pulsando un botón)",
+      "li3": "El elevador de muebles es operado por personal experimentado",
+      "li4": "El transporte de sus muebles al piso superior se realiza en cuestión de minutos",
+      "li5": "Sin daños en sus muebles o escaleras"
+    }
+  },
+  "tp": {
+    "meta": {
+      "title": "Transporte, carga y almacenamiento - Stöber Transporte",
+      "desc": "Stöber Transporte - Su agencia de transportes en Alemania, especialista en España así como en el almacenaje de sus mercancías de transporte"
+    },
+    "img": "Stöber Transporte - Transporte de todo tipo",
+    "h1": "Transporte",
+    "p1": "Tanto si desea transportar un vehículo, un europalé o un armario, tenemos el vehículo adecuado en nuestra flota para una carga total de hasta 25 toneladas.",
+    "p2": "Desde hace más de 30 años, la empresa Stöber-Transporte es sinónimo de calidad, fiabilidad, transparencia y competencia cuando se trata de transportes (casi) de todo tipo.",
+    "p3": "Nos encargamos de su transporte no solo en toda Alemania, España o las Islas Baleares, sino también en toda Europa.",
+    "btn": {
+      "text": "Enviar una solicitud",
+      "title": "Enviar una solicitud de transporte"
+    },
+    "h4": "¿Tiene preguntas sobre su transporte?"
+  },
+  "uz": {
+    "meta": {
+      "title": "Mudanzas en toda Alemania y Europa, España (Mallorca)",
+      "desc": "Mudanzas en toda Alemania y Europa, así como un especialista para España (Mallorca y todas las Islas Baleares)"
+    },
+    "images": {
+      "img1": "Material de embalaje para su mudanza",
+      "img2": "Almacenamiento de mercancías en nuestra nave climatizada",
+      "img3": "Vaciado y limpieza de viviendas de forma discreta, rápida y económica - Stöber Transporte"
+    },
+    "h1": "Mudanzas",
+    "p1": "El servicio es nuestra máxima prioridad; eso se traduce en menos trabajo, menos molestias y más tiempo para usted. Para que la mudanza se desarrolle con el menor estrés posible, le ofrecemos la posibilidad de una solución completa con un solo proveedor.",
+    "p2": {
+      "1": "Le organizamos el traslado completo",
+      "2": "incluida la renovación de su antiguo piso",
+      "title": "Vaciar y renovar su antiguo piso, de forma rápida y económica - Stöber Transporte",
+      "3": ", montaje de sus muebles y cocina, limpieza final para la entrega, incluso podemos encargarnos de la entrega del piso por usted."
+    },
+    "p3": {
+      "1": "Además de mudanzas dentro de Alemania, también nos encargamos de forma profesional y competente de su",
+      "2": "mudanza a España (Mallorca, Baleares)",
+      "title": "mudanza a España (Mallorca, Baleares)",
+      "3": "y también en toda Europa."
+    },
+    "p4": "Para poder ofrecerle este servicio, trabajamos en estrecha colaboración con reputadas empresas artesanales, que seleccionamos y encargamos para usted. Solicite su oferta personalizada con nosotros.",
+    "h4": "¿Tiene preguntas sobre su mudanza?",
+    "h2": {
+      "1": "Nuestra oferta",
+      "2": "Material de embalaje",
+      "3": "Almacenamiento",
+      "4": "Vaciado y renovaciones",
+      "5": "Consejos de mudanza",
+      "6": "Preguntas y respuestas sobre su mudanza"
+    },
+    "ul1": {
+      "li1": "Mudanzas en Alemania, Europa y ultramar",
+      "li2": "Mudanzas a España (Mallorca, Marbella)",
+      "li3": "Mudanzas privadas, corporativas y de oficina",
+      "li4": "Desmontaje y montaje de muebles",
+      "li5": "Diseño y montaje de cocinas",
+      "li6": "Servicio de embalaje",
+      "li7": "Material de embalaje",
+      "li8": "Elevador de muebles (ascensor de muebles)",
+      "li9": "Almacenamiento de enseres",
+      "li10": "Consejos de mudanza/guía gratuita",
+      "li11": "Solicitud de mudanza"
+    },
+    "h3": {
+      "1": "Material de embalaje para su mudanza",
+      "2": "Almacenamiento de mercancías en nuestra nave climatizada",
+      "3": "Vaciado y renovación después de la mudanza",
+      "4": "De este modo podrá mantener bajo control los costes de la mudanza: ",
+      "5": "¿Qué tipo de mudanzas ofrecemos?",
+      "6": "¿Qué servicio ofrecemos?",
+      "7": "¿Cuánto cuesta una mudanza?",
+      "8": "¿Podemos ayudarlo con la renovación después de su mudanza?",
+      "9": "¿Ofrecemos también la eliminación o el vaciado?",
+      "10": "¿Qué espacio necesita nuestro vehículo de mudanzas?",
+      "11": "¿Se puede organizar una zona de prohibición de parada para su mudanza a través de nosotros?",
+      "12": "¿De dónde obtengo el material de mudanza que necesito?"
+    },
+    "p5": "Un buen embalaje protege los artículos valiosos de su mudanza. La seguridad y protección de sus enseres son extremadamente importantes para nosotros.",
+    "p6": "También estaremos encantados de ocuparnos del embalaje por usted, para que sus enseres valiosos y delicados lleguen sanos y salvos a su nueva ubicación.",
+    "ul2": {
+      "li1": "Cajas de cartón para mudanzas",
+      "li2": "Lonas para mudanzas",
+      "li3": "Cajas para ropa",
+      "li4": "Plástico de burbujas",
+      "li5": "Papel tisú",
+      "li6": "Papel de embalaje",
+      "li7": "Protector de bordes",
+      "li8": "Señales de advertencia e indicación"
+    },
+    "p7": {
+      "1": "Determine el tipo y",
+      "2": "la duración del",
+      "title": "Almacenamiento",
+      "3": "almacenamiento. El almacenamiento a corto o a largo plazo no supone ningún problema. Del mismo modo, nos encargamos de la manipulación de su mercancía o del almacenamiento de su contenedor."
+    },
+    "ul3": {
+      "li1": "en la nave climatizada",
+      "li2": "en contenedores de madera con cerradura de seguridad",
+      "li3": "en contenedores de transporte intercambiables con cerradura",
+      "li4": "en contenedores de acero con cerradura"
+    },
+    "p8": "¿Ha acumulado objetos o muebles en su casa o piso que ya no va a necesitar?",
+    "p9": {
+      "1": "Esta pregunta también surge después de cada mudanza. Además de las mudanzas, también nos deshacemos de los enseres que ya no necesita, de forma profesional y respetuosa con el medioambiente y también estaremos encantados de encargarnos de:",
+      "2": "Todos los trabajos de renovación",
+      "title": "Todos los trabajos de renovación"
+    },
+    "ul4": {
+      "li1": "Limpieza con escobones",
+      "li2": "Eliminación de objetos",
+      "li3": "Trabajos de renovación",
+      "li4": "Retirada de azulejos y baldosas"
+    },
+    "ul5": {
+      "li1": "Buena preparación: todo embalado, mercancías frágiles provistas de un embalaje especial, etiquetado claro e inequívoco",
+      "li2": "Lleve los muebles, alfombras y electrodomésticos a limpiar, reparar o retapizar antes de la mudanza. Cada pieza que falta reduce los costes.",
+      "li3": "Prepare una lista de lo que el equipo de mudanzas tiene que llevarse fuera del piso (jardín, sótano, escalera).",
+      "li4": "Etiquete de forma clara todos los enseres de la mudanza.",
+      "li5": "Prepare el plan de disposición.",
+      "li6": "Informe a los vecinos (de la antigua y de la nueva residencia) para que las entradas y las vías de acceso se mantengan despejadas para los vehículos y el personal el día de la mudanza."
+    },
+    "p10": "Desde una habitación en un piso compartido, hasta hogares completos, pasando por traslados corporativos y comerciales, ponemos a su disposición una solución a medida de sus necesidades.",
+    "p11": "Desde proporcionar una empresa de mudanzas para complementar su equipo de mudanzas existente, hasta una mudanza de servicio completo, no dejamos nada al azar. Estaremos encantados de embalar partes o todo su hogar por usted y, si lo desea, volver a desembalarlo en su destino. Lo mismo se aplica a los montajes de sus muebles, lámparas de techo, etc.",
+    "p12": "No hay dos mudanzas iguales. Partiendo del volumen, las plantas y pasarelas o la distancia, sus propias aportaciones y los servicios previstos, el cálculo se adapta especialmente a sus necesidades y deseos. No se puede elaborar una lista de precios fija para las mudanzas.",
+    "p13": {
+      "1": "A menudo, tras la mudanza, hay que realizar trabajos de limpieza o renovación para los que simplemente no hay tiempo debido al cambio de residencia. ¡No hay problema! Además de las mudanzas, este trabajo también forma parte de nuestro servicio. Desde una",
+      "2": "limpieza con escobones, pasando por trabajos de pintura, hasta trabajos de renovación",
+      "title": "La empresa Stöber Transporte también ofrece servicios de vaciado",
+      "3": "para poder ofrecerle también esa solución."
+    },
+    "p14": {
+      "1": "Quiere aprovechar la mudanza para hacer limpieza, deshacerse de muebles viejos o simplemente no tiene espacio para ellos en el piso nuevo. ¡Aproveche nuestro servicio! Estaremos encantados de ofrecerle desde la eliminación de su vieja mesilla de noche hasta el",
+      "2": "vaciado completo",
+      "title": "La empresa Stöber Transporte también ofrece servicios de vaciado",
+      "3": "para un piso o una casa."
+    },
+    "p15": {
+      "1": "Las carreteras transitables para camiones son un requisito previo. Por lo general, necesitamos una plaza de aparcamiento de unos 20 m de largo y unos 2,50 m de ancho. En función del volumen y el uso del vehículo de mudanzas correspondiente y/o del uso de nuestro",
+      "2": "elevador de muebles",
+      "title": "El elevador de muebles ahorra tiempo y dinero",
+      "3": " esto puede diferir. Estaremos encantados de asesorarle al respecto."
+    },
+    "p16": "Con el estrés de la mudanza, no tiene tiempo o carece de la presencia necesaria (por ejemplo, en el punto de descarga) para ocuparse del aparcamiento necesario para el vehículo de la mudanza. Con mucho gusto nos encargaremos de establecer una zona de prohibición de parada en los aparcamientos públicos, o de conseguir el permiso para circular por zonas peatonales, etc.",
+    "p17": "En nuestra",
+    "p18": "tienda para mudanzas",
+    "p19": " encontrará todo el material necesario para su mudanza. Puede adquirir cintas adhesivas, cajas para mudanzas, cajas para ropa, fundas protectoras, plástico de burbujas y mucho más directamente con nosotros. Ya sea directamente en nuestra tienda, como entrega anticipada en su domicilio o directamente el día de la mudanza, estaremos encantados de asesorarle. Por supuesto, también puede comprarnos el material de mudanza completo independientemente de una mudanza."
+  },
+  "uzs": {
+    "meta": {
+      "title": "Mudanzas a España (Mallorca, Islas Baleares)",
+      "desc": "Su profesional de la mudanza se encarga de las mudanzas a España (Mallorca y todas las Islas Baleares): Stöber Transporte"
+    },
+    "img": "Mudanzas, transportes y cargas adicionales a España",
+    "h1": "Mudanzas a España",
+    "p1": {
+      "1": "Gracias a nuestros muchos años de experiencia, especialmente en mudanzas a",
+      "2": "España",
+      "3": "(Mallorca y Baleares), nos aseguramos de que su mudanza no se convierta en una pesadilla."
+    },
+    "p2": {
+      "1": "No importa si solo quiere llevarse un armario como carga adicional a su casa de vacaciones en",
+      "2": "Mallorca",
+      "3": "o una casa completa a",
+      "4": "Marbella, Barcelona, Alicante, etc.:",
+      "5": "con nosotros a su lado, todo llegará seguro y con fiabilidad al destino deseado."
+    },
+    "p3": "¿Necesita material de embalaje o desea que alguien empaquete sus enseres de forma segura y los desempaquete de nuevo en el lugar de destino? Le ofrecemos el servicio completo.",
+    "p4": "Por supuesto, también estaremos encantados de encargarnos de desmontar y montar sus muebles por usted porque, después de todo, querrá estar cómodo en su nuevo hogar lo antes posible.",
+    "h4": "¿Tiene preguntas sobre su mudanza a España?",
+    "btn": {
+      "text": "Enviar una solicitud",
+      "title": "Enviar una solicitud de mudanzas, transportes y cargas adicionales a España"
+    }
+  },
+  "uzm": {
+    "meta": {
+      "title": "Mudanzas y Transportes a Mallorca",
+      "desc": "Mudanzas y Transportes a Mallorca - con ubicación propia en Mallorca - Stöber Transporte"
+    },
+    "img": "Mudanzas y Transportes a Mallorca",
+    "h1": "Mudanzas y Transportes a Mallorca",
+    "h2": "Sus ventajas de un vistazo:",
+    "p1": {
+      "1": "¿Está planeando una mudanza o transporte a Mallorca? ¡Entonces está en el lugar correcto! Como empresa de mudanzas profesional con ubicación propia en Mallorca, le ofrecemos servicios de primera clase para su mudanza a la soleada isla balear. Nuestra presencia local nos permite garantizarle una mudanza fluida y sin estrés.",
+      "2": "Nuestro experimentado equipo lo acompaña desde la planificación inicial hasta la implementación final. Conocemos exactamente las condiciones locales y las regulaciones legales y nos aseguramos de que sus pertenencias lleguen de forma segura y puntual. Ya sea mudanza privada, traslado de empresa o transportes especiales, tenemos la solución adecuada para cada necesidad.",
+      "3": "Contáctenos hoy para una oferta sin compromiso y déjese convencer por nuestro servicio de primera clase. ¡Con nosotros, su mudanza a Mallorca se convierte en una experiencia agradable!"
+    },
+    "li": {
+      "1": "Ubicación propia en Mallorca: A través de nuestra sucursal local, siempre estamos disponibles para usted y podemos responder flexiblemente a sus deseos.",
+      "2": "Amplia experiencia: Con años de experiencia en mudanzas internacionales, le ofrecemos servicios profesionales y confiables.",
+      "3": "Asesoramiento individual: Creamos conceptos de mudanza hechos a medida que se adaptan exactamente a sus necesidades.",
+      "4": "Seguridad y fiabilidad: Su propiedad está en las mejores manos con nosotros. Utilizamos equipos modernos y empleamos personal capacitado.",
+      "5": "Servicio integral: Desde el embalaje hasta el transporte y el montaje, nos encargamos de todos los detalles."
+    },
+    "h4": "¿Preguntas sobre transporte o mudanza a Mallorca?",
+    "btn": {
+      "text": "Enviar Solicitud",
+      "title": "Enviar solicitud para mudanzas y transportes a Mallorca"
+    }
+  },
+  "ct": "Llámenos (+497631/7400600) o envíenos un correo electrónico (team@stoeber-transporte.de)."
+}

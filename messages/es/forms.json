@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "bl": {
+      "title": "Stöber Transporte - Solicitud de carga adicional",
+      "desc": "Stöber Transporte - Aquí puede enviar una solicitud para una carga adicional."
+    },
+    "lg": {
+      "title": "Stöber Transporte - Solicitud de almacenamiento",
+      "desc": "Stöber Transporte - Aquí puede enviar una solicitud de almacenamiento."
+    },
+    "ml": {
+      "title": "Stöber Transporte - Solicitud para nuestro elevador de muebles",
+      "desc": "Stöber Transporte - Aquí puede enviar una solicitud para el elevador de muebles (grúa móvil)."
+    },
+    "ta": {
+      "title": "Stöber Transporte - Solicitud de transporte",
+      "desc": "Stöber Transporte - Aquí puede enviar una solicitud de transporte"
+    },
+    "uf": {
+      "title": "Stöber Transporte - Solicitud de traslado de vehículo",
+      "desc": "Stöber Transporte - Aquí puede hacer una solicitud para trasladar su vehículo."
+    },
+    "uz": {
+      "title": "Stöber Transporte - Solicitud para su mudanza",
+      "desc": "Stöber Transporte - Aquí puede enviar una solicitud para su mudanza."
+    }
+  },
+  "h1": {
+    "bl": "Solicitud de carga adicional",
+    "lg": "Solicitud de almacenamiento",
+    "ml": "Solicitud para elevador de muebles",
+    "ta": "Solicitud de transporte",
+    "fg": "Solicitud para el traslado de un vehículo",
+    "uz": "Solicitud de mudanza",
+    "fo": "Formularios"
+  },
+  "h2ap": "Persona de contacto",
+  "h2kd": "Datos de contacto",
+  "h2lo": "Lugar de carga",
+  "h2ao": "Lugar de descarga",
+  "h2eo": "Lugar de operación",
+  "h2vp": "Empaquetado",
+  "h2fz": "Vehículo",
+  "h2zs": "Condición",
+  "h2w": "Mercancías",
+  "h2c": "Comentario",
+  "h2al": "Almacenamiento inicial",
+  "h2zr": "Período",
+  "h2mt": "Montaje",
+  "h2pk": "Empaquetado",
+  "pk": {
+    "pk0": "Sin empaquetar",
+    "pk1": "Embalar",
+    "pk2": "Desembalar",
+    "pk3": "Ambas opciones"
+  },
+  "mont": {
+    "m0": "Sin montaje",
+    "m1": "Desmontaje",
+    "m2": "Montaje",
+    "m3": "Ambas opciones"
+  },
+  "ldhaus": {
+    "ld0": "Casa",
+    "ld1": "Piso"
+  },
+  "ldaufzug": {
+    "ld0": "Sin ascensor",
+    "ld1": "Ascensor"
+  },
+  "ldanz": {
+    "z0": "1 habitación",
+    "z1": "2 habitaciones",
+    "z2": "3 habitaciones",
+    "z3": "4 habitaciones",
+    "z4": "5 habitaciones",
+    "z5": "6 habitaciones",
+    "z6": "7 habitaciones",
+    "z7": "8 habitaciones",
+    "z8": "9 habitaciones",
+    "z9": "10 habitaciones"
+  },
+  "kfzart": {
+    "f0": "Vehículo",
+    "f1": "Camión",
+    "f2": "Tractor",
+    "f3": "Caravana",
+    "f4": "Autocaravana",
+    "f5": "Autobús",
+    "f6": "Maquinaria de construcción"
+  },
+  "zustand": {
+    "zs1": "dispuesto para salir",
+    "zs2": "enrollable",
+    "zs3": "no enrollable"
+  },
+  "zr": {
+    "m1": "1 mes",
+    "m2": "2 meses",
+    "m3": "3 meses",
+    "m6": "6 meses",
+    "mw": "hasta su revocación"
+  },
+  "dl": {
+    "ua": "Solicitud de mudanza",
+    "ba": "Solicitud de carga adicional",
+    "ll": "Aviso de camión vacío",
+    "ta": "Solicitud de transporte",
+    "ml": "Elevador de muebles",
+    "fz": "Traslado de vehículos",
+    "al": "Almacenamiento"
+  },
+  "pl": {
+    "cname": "Nombre",
+    "firma": "Empresa",
+    "phone": "Teléfono",
+    "fax": "FAX",
+    "mobile": "Móvil",
+    "plz": "Código postal",
+    "ort": "Lugar",
+    "street": "Calle y número",
+    "land": "País",
+    "et": "Planta",
+    "vpart": "Tipo de embalaje",
+    "vpanzahl": "Número de embalajes",
+    "vpkb": "Metros cúbicos",
+    "wgw": "Peso/unidad en kg",
+    "wmasse": "Dimensiones/pieza (largo, ancho, alto en cm)",
+    "bf": "¿Se puede acceder por el balcón o la ventana?"
+  },
+  "ds": {
+    "agb": "Términos y condiciones generales",
+    "ds": "Política de privacidad",
+    "p1": "He leído y entendido ",
+    "p2": "y",
+    "p3": "."
+  },
+  "btn": "Enviar"
+}

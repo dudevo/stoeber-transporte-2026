@@ -1,0 +1,87 @@
+{
+  "h1": "Información de responsabilidad del transportista de muebles según § 451g HGB y comportamiento en caso de daños",
+  "h2": {
+    "1": "Ámbito de aplicación",
+    "2": "Principios de responsabilidad",
+    "3": "máxima responsabilidad",
+    "4": "compensación",
+    "5": "Descargo de responsabilidad",
+    "6": "Descargos de responsabilidad especiales",
+    "7": "Reclamaciones no contractuales",
+    "8": "Eliminación de exenciones y limitaciones de responsabilidad",
+    "9": "responsabilidad de las personas",
+    "10": "Mudanza de muebles ejecutivos",
+    "11": "seguro de transporte",
+    "12": "indicador de daño",
+    "13": "Mudanzas de mercancías peligrosas",
+    "14": "Instrucciones de qué hacer en caso de siniestro - Póliza de transporte de mercancías -"
+  },
+  "p1": "El transportista (en lo sucesivo, transportista de muebles) es responsable de acuerdo con el contrato de mudanza y el Código de Comercio alemán (HGB). Los mismos principios de responsabilidad se aplican al transporte de enseres domésticos hacia y desde lugares fuera de Alemania. Esto también se aplica si se utilizan diferentes tipos de transporte.",
+  "p2": "La empresa de mudanzas responde de los daños causados \u200B\u200Bpor la pérdida o deterioro de la mercancía de mudanza en el período comprendido entre la aceptación del transporte y la entrega o por la superación del plazo de entrega (obligación de cuidado).",
+  "p3": {
+    "1": "La responsabilidad de la empresa de mudanzas por pérdida o daño se limita a una cantidad de 620,00 EUR por metro cúbico de espacio de carga necesario para cumplir el contrato.",
+    "2": "Si se supera el plazo de entrega, la responsabilidad de la empresa de mudanzas se limita al triple del importe del flete. Si la empresa de mudanzas es responsable de los daños que no sean causados \u200B\u200Bpor la pérdida o deterioro de los bienes a trasladar o por exceder el plazo de entrega por el incumplimiento de una obligación contractual asociada a la ejecución de la mudanza, y si los daños es distinta de los daños a la propiedad y lesiones personales, esta En este caso la responsabilidad se limita a tres veces la cantidad que se tendría que pagar si los bienes se pierden."
+  },
+  "p4": "Si la empresa de mudanzas tiene que pagar una compensación por la pérdida, el valor debe ser compensado en el lugar y momento de la aceptación del transporte. Si los bienes están dañados, debe compensarse la diferencia entre el valor de los bienes no dañados y el valor de los bienes dañados. Depende del lugar y hora de aceptación de la mercancía para su transporte. El valor de los bienes de mudanza suele estar determinado por el precio de mercado. Además, deben reembolsarse los gastos de determinación del daño.",
+  "p5": "El transportista de muebles queda eximido de responsabilidad si la pérdida, el daño o la superación del plazo de entrega se deben a circunstancias que el transportista de muebles no pudo evitar incluso con el mayor cuidado y cuyas consecuencias no pudo evitar (evento inevitable).",
+  "p6": {
+    "1": "El Mueble se libera de responsabilidad si la pérdida o daño se debe a uno de los siguientes riesgos:",
+    "2": "1. Transporte de metales preciosos, joyas, piedras preciosas, dinero, sellos, monedas, valores o documentos.",
+    "3": "2. Embalaje o etiquetado inadecuado por parte del remitente.",
+    "4": "3. Manipulación, carga o descarga de las mercancías de mudanza por parte del remitente.",
+    "5": "4. Transporte de mercancías en contenedores que no hayan sido embalados por el desmueble.",
+    "6": "5. La carga o descarga de mercancías de mudanza cuyas dimensiones o peso no se correspondan con las condiciones espaciales del punto de carga o descarga, siempre que el transportista haya informado previamente al remitente del riesgo de daño y éste haya insistido en la realización de las mismas. servicio.",
+    "7": "6. Transporte de animales o plantas vivos.",
+    "8": "7. Condición natural o defectuosa de las mercancías que se van a trasladar, por lo que se dañan con especial facilidad, en particular por rotura, mal funcionamiento, oxidación, deterioro interno o fugas.",
+    "9": "Si ha ocurrido un daño que, de acuerdo con las circunstancias del caso, podría haber surgido de uno de los peligros especificados en las Secciones 1-7, se presume que el daño provino de este peligro. La Empresa de Mudanzas sólo podrá invocar la causal especial de exención de responsabilidad si ha tomado todas las medidas que le incumben según las circunstancias y ha observado instrucciones especiales."
+  },
+  "p7": "Las exenciones y limitaciones de responsabilidad también se aplican a las reclamaciones extracontractuales del remitente o del destinatario contra la empresa de mudanzas por pérdida o daño de los bienes de mudanza o por exceder el plazo de entrega.",
+  "p8": "Las exenciones de responsabilidad y las limitaciones de responsabilidad no se aplican si el daño se debe a una acción u omisión que el removedor ha cometido intencionalmente o con imprudencia y con el conocimiento de que probablemente se producirá el daño.",
+  "p9": "Si las reclamaciones por daños y perjuicios por responsabilidad extracontractual por pérdida o daño de los bienes a trasladar o por exceder el plazo de entrega se presentan contra uno de los empleados del transportista de muebles, también pueden invocar las exenciones y limitaciones de responsabilidad. Esto no se aplica si actuó intencionalmente o con imprudencia y sabiendo que probablemente se producirían daños.",
+  "p10": {
+    "1": "Si la mudanza es realizada total o parcialmente por un tercero (empresa de mudanzas ejecutivas), entonces el tercero es responsable de los daños causados \u200B\u200Bpor la pérdida o daño de los bienes o por exceder el plazo de entrega durante el transporte realizado por él. , del mismo modo que la empresa de mudanzas. El transportista de muebles en movimiento puede hacer valer todas las objeciones a las que tiene derecho el contratista de transporte de muebles en virtud del contrato de transporte. El transportista de muebles y el ejecutor del traslado de muebles son responsables solidariamente.",
+    "2": "La Empresa de Mudanzas informa al remitente de la posibilidad de pactar una responsabilidad más amplia que la prevista por la ley a cambio del pago de una tarifa correspondiente."
+  },
+  "span10": "Acuerdo de responsabilidad",
+  "p11": "El transportista advierte al remitente de la posibilidad de asegurar las mercancías contra el pago de una prima separada.",
+  "p12": {
+    "1": "Para evitar la caducidad de las reclamaciones de indemnización, se debe observar lo siguiente:",
+    "2": "- El remitente está obligado a examinar las mercancías en el momento de la entrega en busca de daños o pérdidas visibles desde el exterior. Estos deben especificarse en el recibo o en un informe de daños o informarse a la empresa de mudanzas a más tardar el día siguiente a la entrega.",
+    "3": "- Cualquier daño o pérdida que no sea visible desde el exterior deberá ser comunicado expresamente a la empresa de mudanzas en un plazo de 14 días desde la entrega.",
+    "4": "- Los informes de daños a tanto alzado no son suficientes en ningún caso.",
+    "5": "- Las reclamaciones por superación de los plazos de entrega caducan si el destinatario no comunica a la empresa de mudanzas el exceso en el plazo de 21 días desde la entrega.",
+    "6": "- Si la notificación se hace después de la entrega, deberá hacerse por escrito y dentro de los plazos señalados para evitar la pérdida del derecho. El informe de daños también se puede transmitir con la ayuda de un dispositivo de telecomunicaciones. No se requiere una firma si el expositor puede identificarse de alguna otra manera.",
+    "7": "- El envío oportuno es suficiente para cumplir con los plazos."
+  },
+  "p13": "Si las mercancías de la mudanza incluyen mercancías peligrosas (por ejemplo, gasolina o aceites), el remitente está obligado a informar a la empresa de mudanzas a tiempo sobre la naturaleza del peligro que representan las mercancías. (por ejemplo, peligro de incendio, líquido cáustico, sustancias explosivas, etc.)",
+  "p14": {
+    "1": "En representación de las compañías de seguros involucradas",
+    "2": "La persona asegurada debe notificar al contratista el evento del daño inmediatamente.",
+    "3": "1. El tomador del seguro y el asegurado están obligados a procurar que se evite y reduzca el daño, a facilitar a los aseguradores toda la información necesaria ya seguir sus instrucciones.",
+    "4": "2. Los daños reconocibles externamente deben determinarse e informarse por escrito en el momento de la entrega de los bienes de mudanza junto con el tomador del seguro, pero a más tardar un día después de la entrega. Los daños que no sean visibles desde el exterior deberán ser comunicados por escrito en un plazo de 14 días desde la entrega.",
+    "5": "3. En caso de daño que se prevea exceda la cantidad de EUR 2,000.00 o la cantidad correspondiente en otra moneda, el contratista debe ser notificado inmediatamente para que pueda contactar al agente responsable.",
+    "6": "4. El asegurado está obligado a proteger todos los derechos frente a terceros. Los derechos de recurso deben cederse por escrito previa solicitud. Si el asegurado no hace valer estos derechos frente a terceros intencionadamente o por culpa grave en perjuicio del asegurador, éste queda liberado de la obligación de pagar las prestaciones.",
+    "7": "5. El asegurado deberá presentar los documentos exigidos por el asegurador como prueba de la reclamación de la indemnización.",
+    "8": "Su contratista enviará su daño a SVG Assekuranz-Service Berlin und Brandenburg GmbH para su procesamiento, teléfono: +49 (30) 25 383180, correo electrónico: berlin@svg-assekuranz.de.",
+    "9": "Debe enviar estos documentos e información de inmediato para que las reclamaciones se puedan resolver de manera rápida y sin problemas.",
+    "10": "En disputas con la compañía de seguros, puede comunicarse con la siguiente junta de arbitraje: Versicherungsombudsmann e.V., Postfach 08 06 32, 10006 Berlín."
+  },
+  "li14": {
+    "1": "reporte de daños",
+    "2": "Certificado de Seguro/Póliza Individual",
+    "3": "descripción del daño",
+    "4": "Cantidad estimada de daño si es necesario",
+    "5": "Prueba de compra si está disponible",
+    "6": "Cálculo de daños o estimaciones de costos para reparaciones",
+    "7": "Año de adquisición de los bienes dañados",
+    "8": "Imágenes de la propiedad dañada",
+    "9": "Certificado de Daños/Informe de Daños",
+    "10": "lista de mercancías en movimiento",
+    "11": "Lista de empaque de la empresa de mudanzas en el lugar de despacho",
+    "12": "hoja de ruta",
+    "13": "Certificado promedio",
+    "14": "Confirmación de extensiones del período de almacenamiento si se solicita",
+    "15": "Informe de estado del transporte de coches/motos",
+    "16": "Correspondencia relativa a reclamaciones de indemnización frente a terceros"
+  }
+}

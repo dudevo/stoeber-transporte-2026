@@ -1,0 +1,430 @@
+{
+  "bl": {
+    "meta": {
+      "title": "Transport as additional cargo - Stöber Transporte",
+      "desc": "Stöber Transporte - save costs by shipping as additional cargo, even for small shipments"
+    },
+    "h1": "Additional cargo",
+    "p1": {
+      "1": "Not everyone needs to organise a complete",
+      "2": "removal.",
+      "3": "Often only individual items such as a sofa, a washing machine, a few pieces of furniture or a few boxes have to be shipped from A to B."
+    },
+    "p2": {
+      "1": "For this purpose we offer you",
+      "2": "shipping",
+      "3": "as additional cargo. We ensure that your cargo is transported quickly and safely, not only within Germany but also to Spain (mainland, Mallorca and the Balearic Islands)."
+    },
+    "p3": "With additional cargo you not only protect the environment, because our vehicles have improved capacity utilisation, but can also save money.",
+    "p4": "Just ask if there is currently a transport option for your destination.",
+    "h4": "Questions about additional cargo shipments?",
+    "img": "Additional cargo within Germany, but also to Spain (mainland, Mallorca and the Balearic Islands)",
+    "li1": "Optimisation of our cargo space",
+    "li2": "Low-cost offers with combination options",
+    "li3": "Transport from A to B",
+    "li4": "Transport to and from our warehouse",
+    "li5": "Storage of your additional cargo",
+    "btn": {
+      "text": "Send us an enquiry",
+      "title": "Send us an additional cargo enquiry"
+    }
+  },
+  "et": {
+    "meta": {
+      "title": "Household clearances - Stöber Transporte",
+      "desc": "Household clearances implemented discreetly, fast and cost-effectively - Stöber Transporte"
+    },
+    "h1": "Household clearances",
+    "p1": "We clear out houses, flats, attics, cellars, commercial premises, buildings or warehouses as well as gazebos, garages and barns quickly, cost-effectively and discreetly.",
+    "p2": "The cleared objects and waste are correctly disposed of or recycled.",
+    "h2": "Renovation and cleaning",
+    "p3": "Of course, we also take care of the renovation and cleaning of premises at your request.",
+    "h4": "Questions about clearances?",
+    "img": "Household clearances implemented discreetly, fast and cost-effectively - Stöber Transporte",
+    "li1": "Dismantling of furniture",
+    "li2": "Removing floor coverings and curtains, etc.",
+    "li3": "Renovation and cleaning work",
+    "li4": "Clearing and professional disposal",
+    "li5": "Painting and tiling work"
+  },
+  "ex": {
+    "meta": {
+      "title": "Stöber Transporte - urgent and express transport",
+      "desc": "Stöber Transporte - urgent and express transport with a 24-hour service in Germany and Europe"
+    },
+    "img": "Stöber Transporte - special trips and express deliveries",
+    "h1": "Stöber Express - fast and professional",
+    "h2": "Special trips and direct deliveries:",
+    "p1": "from envelopes to special machines weighing tonnes - we have the solution to all your transport problems. A 24-hour service in Europe, precise delivery at specified fixed times - we're there when you need us.",
+    "p2": "GPS positioning for accurate advice and information, and exclusive shipping of your goods. All in direct trips without further unloading points."
+  },
+  "fz": {
+    "meta": {
+      "title": "Vehicle transport throughout Germany and Europe",
+      "desc": "Transport throughout Germany and Europe of trucks, buses, construction machinery, tractors, motorhomes and caravans."
+    },
+    "h1": "Vehicle transport",
+    "h2": {
+      "1": "Trucks, buses, construction machinery, tractors, motorhomes, caravans and everything else with wheels throughout Germany and Europe.",
+      "2": "Overview of services"
+    },
+    "h3": {
+      "1": "Shipping on our vehicle transporters",
+      "2": "Motorhomes & caravans",
+      "3": "Both new and used cars",
+      "4": "Trucks and buses",
+      "5": "Construction machinery",
+      "6": "Checks",
+      "7": "Performance",
+      "8": "Coverage",
+      "9": "GPS positioning",
+      "10": "New vehicles",
+      "11": "Leased vehicles",
+      "12": "Vehicle storage",
+      "13": "Express"
+    },
+    "p1": "Vehicle transfer using your own wheels: we provide a trained driver to take your vehicle to the desired location. No matter what type of vehicle, we have the appropriate driving licences and know-how. For deregistered vehicles we have red transfer plates.",
+    "p2": "Whether your vehicle is deregistered or not ready to drive, with our car transporter & low loader we will bring it to its destination safely and reliably, no matter what its size.",
+    "p3": "Direct shipping to or from the holiday resort to the desired new location.",
+    "p4": "You don't have the time or the possibility to pick up your new or used vehicle from the dealer's or the factory? Stöber-Transporte will ship the vehicle for you reliably, safely and on time.",
+    "p5": "Do you need to pick up a truck or bus from the dealer, a garage or another location and there is currently no employee available with the relevant driving licence? We can also ship a truck or bus for you.",
+    "p6": "Collection and transfer of construction machinery directly to the building site or other place of use.",
+    "p7": "Before it is loaded, each vehicle is subjected to a careful condition check by our trained drivers. Its condition is recorded using e-logging and can be retrieved at any time.",
+    "h4": "Questions about vehicle transport?",
+    "p8": "Transport of registered or deregistered vehicles, with their own red licence plate and including comprehensive insurance",
+    "p9": "Shipping of vehicles of any type and size throughout Germany and Europe",
+    "p10": "to provide information at any time about where your vehicle is located",
+    "p11": "Collection of new vehicles directly from the dealer or from the factory",
+    "p12": "Return of leased vehicles to the dealer or collection points",
+    "p13": "Vehicle storage in our heated storage facilities",
+    "p14": "Save money with a little more time",
+    "btn": {
+      "text": "Send us an enquiry",
+      "title": "Send us a vehicle transport enquiry"
+    },
+    "img": "Shipping of trucks, buses, construction machinery, tractors, motorhomes, caravans and everything else with wheels."
+  },
+  "la": {
+    "meta": {
+      "title": "Storage of furniture and household effects - Stöber Transporte",
+      "desc": "Storage of furniture, household effects and other goods in an air-conditioned and heated hall at Stöber Transporte"
+    },
+    "img": "Storage of furniture and household effects",
+    "h1": "Storage",
+    "p1": "Our air-conditioned and heated warehouse offers enough space for your short-term temporary storage of furniture and household effects, pallets and general cargo etc., with long-term storage also possible.",
+    "p2": "You decide on the type and duration of storage, which will be specially adapted to your needs.",
+    "h2": {
+      "1": "Storage of furniture and household effects",
+      "2": "Storage of pallets, general cargo, etc."
+    },
+    "p3": "Do you need space in your flat, can't move into your new flat in time or are planning an extended stay abroad? Whatever the case, you can be sure that your furniture and household effects are safely stored with us.",
+    "p4": "On request, we will come to your home and pack your goods professionally. For this purpose, we offer you containers or mesh trolleys for the storage of your furniture and household effects. To protect against dust the trolleys are wrapped with special stretch film.",
+    "ul1": {
+      "li1": "Storage in an air-conditioned and heated hall",
+      "li2": "on large mesh trolleys (corlettes)",
+      "li3": "in lockable steel containers",
+      "li4": "You can deliver or store it yourself"
+    },
+    "p5": "Do you need to store a shipment at short notice, require space for your production equipment, or need a special storage facility? Together we can work out a solution for your requirements.",
+    "p6": "Of course, you are also welcome to visit our warehouses in advance.",
+    "h4": "Questions about storage?",
+    "ul2": {
+      "li1": "Short-term interim storage from 1 day",
+      "li2": "Order picking in our warehouse",
+      "li3": "We can also make the delivery",
+      "li4": "Forklifts, indoor crane, pallets, etc. all available"
+    },
+    "btn": {
+      "text": "Send us an enquiry",
+      "title": "Send us a storage enquiry"
+    }
+  },
+  "ml": {
+    "meta": {
+      "title": "Stöber Transporte - media logistics",
+      "desc": "Stöber Transporte also provides regular courier services for newspapers, banks and insurance companies"
+    },
+    "img": "Stöber Transporte - media logistics",
+    "h1": "Media logistics",
+    "p1": "Do you want your newspaper in the letter box on time? We'll make sure it happens!",
+    "p2": "Regular courier services for newspapers, banks and insurance companies. Well-known companies rely on our services.",
+    "p3": "Pickup at the printing location with distribution to the delivery service.",
+    "p4": "Logistics perfection at the service of our customers."
+  },
+  "mll": {
+    "meta": {
+      "title": "Stöber Transporte can also rent you a furniture lift for your move",
+      "desc": "Rent a furniture lift from Stöber Transporte for your move for heavy, large or bulky items"
+    },
+    "images": {
+      "alt": "Image of a ",
+      "i1": "Furniture lift at an office building",
+      "i2": "Furniture lift in a narrow alley",
+      "i3": "Furniture lift in hard-to-reach buildings",
+      "i4": "Furniture lift in narrow staircases",
+      "i5": "Furniture lift on upper floors",
+      "i6": "Furniture lift at a building with scaffolding",
+      "i7": "Furniture lift for transporting household appliances",
+      "i8": "Furniture lift at 25 meters height"
+    },
+    "h1": "Furniture lift",
+    "h2": {
+      "1": "Our new furniture lift is now available for everyone!",
+      "2": "Rent a furniture lift in the Freiburg region",
+      "3": "What is a furniture lift and how does it work?",
+      "4": "Rent a furniture lift: Ride instead of carry",
+      "5": "Rent a furniture elevator and save costs",
+      "6": "Moving made easy with the furniture lift",
+      "7": "Furniture lift for commercial enterprises",
+      "8": "Rent a furniture lift – It's that easy!",
+      "10": "The benefits to you"
+    },
+    "p1": "We at Stöber Transporte offer you our employee of the year - our furniture lift!",
+    "p2": "The furniture lift (inclined lift) is ideal for transporting heavy, large or bulky objects. From the 1st floor to the 8th floor, our furniture lift takes care of it.",
+    "btn": {
+      "text": "Send us an enquiry",
+      "title": "Enquire about a furniture lift"
+    },
+    "p3": "Are you facing a move, renovation work, or simply need to transport bulky items to upper floors? Then you surely know the challenges: narrow staircases, heavy furniture, and the risk of damage to walls and furnishings. Forget tedious carrying and back pain! Stöber Transporte offers you the perfect solution:",
+    "p4": "Rent our modern furniture lift (also called inclined elevator or furniture elevator) and experience a stress-free and efficient transport.",
+    "p5": "A furniture lift, also known as an inclined elevator, is a lifting device specially designed for transporting furniture and other heavy objects over the facade of a building. It consists of a stable platform attached to a telescopic mast. The mast is mounted on a vehicle and can be extended to the desired height. This allows furniture and other items to be transported comfortably and safely up to the upper floors.",
+    "p6": "Our furniture lift is available for transports up to the 8th floor (25 meters lifting height). Whether bulky pieces of furniture such as cabinets, sofas and beds, heavy electrical appliances such as washing machines and refrigerators, or delicate antiques – with our furniture lift you can transport everything safely and conveniently to its destination.",
+    "p7": "The advantages of our furniture lift in detail:",
+    "ul1": {
+      "li1": "Load capacity: With a load capacity of up to 400 kg per transport, depending on the angle of inclination, our furniture lift handles even the heaviest loads.",
+      "li2": "Flexibility: The basket of the furniture lift is rotatable and can be fully opened to ensure easy loading and unloading, even with bulky objects.",
+      "li3": "Speed: The furniture lift is quickly assembled and disassembled at the touch of a button, so transport can take place in minutes. This saves time and money.",
+      "li4": "Safety: The furniture lift is rented exclusively with one or two experienced employees who ensure safe operation and proper handling of your furniture. Your valuables are in safe hands with us.",
+      "li5": "Protection of staircase & furniture: Narrow staircases and delicate furniture are a thing of the past. The furniture lift enables gentle transport that protects your furniture and your staircase.",
+      "li6": "Versatile applications: Our furniture lift is not only suitable for private moves, but also for transporting materials during renovation work, transporting heavy equipment and machinery in commercial enterprises or delivering new furniture in homes and offices."
+    },
+    "p8": "With our furniture lift, you not only save time and effort, but also money. Thanks to efficient transport, you reduce the number of helpers required and minimize the risk of damage to your furniture or the stairwell.",
+    "p9": "An investment that pays off quickly!",
+    "p10": "Moving can be stressful. With our furniture lift, you rent a piece of relaxation. Our experienced staff will take care of everything:",
+    "ul2": {
+      "li1": "Professional advice: We advise you comprehensively on the possible uses of the furniture lift and find the optimal solution for your individual needs.",
+      "li2": "Careful planning: We plan the use of the furniture lift in detail and take into account all relevant factors such as the condition of your facade, the size and weight of the items to be transported and the local conditions.",
+      "li3": "Safe assembly and disassembly: Our employees take care of the professional assembly and disassembly of the furniture lift and ensure a safe stand.",
+      "li4": "Efficient operation: The furniture lift is operated by our experienced personnel. You don't have to worry about anything.",
+      "li5": "Careful transport: We transport your furniture with the utmost care and ensure that it arrives safely and undamaged at its destination."
+    },
+    "p11": "Our furniture lift also offers numerous advantages for commercial enterprises. Whether you transport heavy machinery, deliver goods or want to offer your customers a special service – our furniture lift is the ideal solution.",
+    "p12": "Advantages for commercial enterprises:",
+    "ul3": {
+      "li1": "Efficient logistics: Speed up your logistics processes and save valuable time.",
+      "li2": "Enhanced image: Offer your customers a professional and reliable service.",
+      "li3": "Cost reduction: Reduce personnel costs and minimize the risk of damage."
+    },
+    "p13": "Are you unsure whether the use of a furniture lift is possible on your facade? Simply send us a photo of your facade and the front area of your house by e-mail (team@stoeber-transporte.de) or WhatsApp. We check free of charge and without obligation whether an application is possible and makes sense.",
+    "p14": "Convince yourself of the advantages of our furniture lift and request a non-binding offer today!",
+    "h4": "Questions about the furniture lift?",
+    "ul": {
+      "li1": "The furniture lift and 1 operator come directly to you",
+      "li2": "The furniture lift can be assembled and dismantled quickly (at the touch of a button)",
+      "li3": "The operation of the furniture lift is carried out by experienced personnel",
+      "li4": "The transport of your furniture to the upper floor takes place at one-minute intervals",
+      "li5": "There's no damage to your furniture or staircase"
+    }
+  },
+  "tp": {
+    "meta": {
+      "title": "Transport operations, additional cargo and storage - Stöber Transporte",
+      "desc": "Stöber Transporte - your Germany-wide forwarders, specialising in transport to/from Spain and storage of your goods"
+    },
+    "img": "Stöber Transporte - transport operations of all kinds",
+    "h1": "Transport operations",
+    "p1": "Whether you want to transport a vehicle, a Euro pallet or a cupboard, we have the right vehicle for loads of up to 25 tonnes.",
+    "p2": "For more than 30 years now, Stöber-Transporte has stood for quality, reliability, transparency and competence when it comes to (almost) all kinds of transport operations.",
+    "p3": "We take care of your transport not only throughout Germany, to Spain and the Balearic Islands, but also throughout Europe.",
+    "btn": {
+      "text": "Send us an enquiry",
+      "title": "Send us a transport enquiry"
+    },
+    "h4": "Questions about your transport?"
+  },
+  "uz": {
+    "meta": {
+      "title": "Removals throughout Germany and Europe, Spain (Mallorca)",
+      "desc": "Removals throughout Germany and Europe, with  specialist services for Spain (Mallorca and the entire Balearic Islands)"
+    },
+    "images": {
+      "img1": "Packaging materials for your move",
+      "img2": "Storage of household effects in our air-conditioned hall",
+      "img3": "Household clearances implemented discreetly, fast and cost-effectively - Stöber Transporte"
+    },
+    "h1": "Removals",
+    "p1": "Service is very important to us and for you, which means less work, less trouble, and more time for yourself. In order to make your move as stress-free as possible, we offer you a full-service solution from a single source.",
+    "p2": {
+      "1": "We organise the entire move for you,",
+      "2": "incl. renovation of your former flat",
+      "title": "Clearance and renovation of your old flat, fast and cost-effective - Stöber Transporte",
+      "3": "Assembly of your furniture and kitchen, final cleaning before handover, we can even carry out the handover of the flat for you."
+    },
+    "p3": {
+      "1": "In addition to removals within Germany, we also implement",
+      "2": "your move not only to Spain (Mallorca, Balearic Islands)",
+      "title": "but also",
+      "3": "anywhere in Europe professionally and competently."
+    },
+    "p4": "In order to be able to offer this service, we work closely with reputable service providers, whom we select and commission for you. Request a customised offer today!",
+    "h4": "Questions about your move?",
+    "h2": {
+      "1": "What we offer",
+      "2": "Packing material",
+      "3": "Storage",
+      "4": "Clearances & renovations",
+      "5": "Moving tips",
+      "6": "Questions and answers about your move"
+    },
+    "ul1": {
+      "li1": "Removals domestically, in Europe and overseas",
+      "li2": "Removals to Spain (Mallorca, Marbella)",
+      "li3": "Private, company and office removals",
+      "li4": "Dismantling and assembly of furniture",
+      "li5": "Planning and assembly of kitchens",
+      "li6": "Packing service",
+      "li7": "Packing material",
+      "li8": "Furniture lift",
+      "li9": "Storage of household effects",
+      "li10": "Moving tips/free guide",
+      "li11": "Removal enquiry"
+    },
+    "h3": {
+      "1": "Packing material for your move",
+      "2": "Storage of household effects in our air-conditioned hall",
+      "3": "Clearance & renovation after your move",
+      "4": "Here's how to keep removal costs in check!",
+      "5": "What kind of removals do we offer?",
+      "6": "What services do we offer?",
+      "7": "How much does a removal cost?",
+      "8": "Can we help you with renovations after your move?",
+      "9": "Do we also offer disposal of goods or house clearances? Definitely!",
+      "10": "What space does our removal van need?",
+      "11": "Can a no-parking zone be organised through us for your move?",
+      "12": "Where do I get the necessary removal materials?"
+    },
+    "p5": "Good packaging protects your valuable household effects. The safety and protection of your belongings are extremely important to us.",
+    "p6": "We will also gladly do the packaging for you, so that your valuable and fragile goods arrive safely and securely at your new location.",
+    "ul2": {
+      "li1": "Removal boxes",
+      "li2": "Removal covers",
+      "li3": "Cartons for clothing",
+      "li4": "Bubble wrap",
+      "li5": "Silk paper",
+      "li6": "Wrapping paper",
+      "li7": "Edge protectors",
+      "li8": "Caution and information stickers"
+    },
+    "p7": {
+      "1": "The type and duration of",
+      "2": "storage",
+      "title": "You decide on",
+      "3": "how you want your goods to be stored. Short-term, but also longer-term storage is not a problem. We also carry out the handling of your goods or the storage of your container"
+    },
+    "ul3": {
+      "li1": "in our air-conditioned hall",
+      "li2": "in lockable, secure wood containers",
+      "li3": "in lockable interchangeable transport containers",
+      "li4": "in lockable steel containers"
+    },
+    "p8": "Have objects or furniture that you no longer need accumulated in your house or flat?",
+    "p9": {
+      "1": "This question, too, arises after every move. In addition to removals, we will also gladly dispose of any goods you no longer need in a professional and environmentally friendly manner, and carry out",
+      "2": "any necessary renovation work",
+      "title": "any necessary renovation work"
+    },
+    "ul4": {
+      "li1": "swept-clean clearance",
+      "li2": "disposal of unwanted property",
+      "li3": "renovation work",
+      "li4": "removal of wall and floor tiles"
+    },
+    "ul5": {
+      "li1": "The right preparations: everything packed, fragile goods provided with special packaging, clear and unambiguous labelling",
+      "li2": "Prepare furniture, carpets and appliances for cleaning, repair or refitting before the move. Every missing piece reduces costs",
+      "li3": "Prepare a list of what the moving team also needs to collect from outside the flat (garden, cellar, staircase)",
+      "li4": "Label all goods to be moved clearly and unambiguously",
+      "li5": "Prepare a placement plan",
+      "li6": "Inform neighbours (old and new place of residence) so that entrances and access roads can be kept free for vehicles and crew on the moving day."
+    },
+    "p10": "From a flat-share to complete households to company and commercial relocations, we offer you a tailor-made solution for your requirements.",
+    "p11": "We leave nothing to be desired, from the provision of an assistant to supplement your moving team to a full-service removal. We will be happy to pack parts or your entire household for you, and unpack them at your destination on request. The same applies to the assembly of your furniture, ceiling lamps, etc.",
+    "p12": "No removal is the same. Starting with the volume, number of floors and distances involved, your own contributions and the planned services, the cost estimate is specially adapted to your needs and wishes. A fixed price list for removals is not possible here.",
+    "p13": {
+      "1": "After you move, cleaning or renovation work is often required, for which there is simply no time due to the change of residence. No problem! In addition to removals, these jobs are also part of our service. From",
+      "2": "cleaning and painting to renovation work",
+      "title": "Stöber Transporte also offers house clearance services",
+      "3": "We can also provide you with a solution here."
+    },
+    "p14": {
+      "1": "Do you want to use your move to declutter, get rid of old furniture or simply don't have the space for it in your new flat? Then take advantage of our services! We will be happy to dispose of your old bedside table,",
+      "2": "or even do a complete house clearance.",
+      "title": "Stöber Transporte also offers clearance services",
+      "3": "for an flat or house."
+    },
+    "p15": {
+      "1": "Roads passable for trucks are a prerequisite. As a rule, we need a parking space with a length of about 20m and a width of about 2.50 m. Depending on the volume and use of the corresponding removal vehicle and/or use of our",
+      "2": "furniture lift.",
+      "title": "The furniture lift saves time and money",
+      "3": "this may differ. We will be happy to advise you."
+    },
+    "p16": "In the stress of moving, you simply don't have the time or lack the necessary presence (e.g., at the unloading point) to take care of the necessary parking space for the removal van. We will gladly take care of setting up a no-parking zone in public parking areas, or a permit for entering pedestrian zones, etc.",
+    "p17": "In our ",
+    "p18": "removal shop ",
+    "p19": "you can obtain all the materials you need for a move. You can obtain adhesive tape, removal cartons, clothing boxes, protective covers, bubble wrap and much more directly from us. Whether directly at our shop, as an advance delivery to your home or directly on the day of the move, we will be happy to advise you. Of course, you can also purchase the complete moving materials independently of a move with us."
+  },
+  "uzs": {
+    "meta": {
+      "title": "Removals to Spain (Majorca, Balearic Islands)",
+      "desc": "Removals to Spain (Mallorca and the entire Balearic Islands) are made easy by your relocation professionals: Stöber Transporte"
+    },
+    "img": "Removals, transport and additional cargo to Spain",
+    "h1": "Moving to Spain",
+    "p1": {
+      "1": "With our many years of experience especially with relocations to",
+      "2": "Spain",
+      "3": "(Mallorca and the Balearic Islands) we make sure that your move doesn't become a nightmare."
+    },
+    "p2": {
+      "1": "No matter if it's only a cupboard shipped as additional cargo to your holiday home",
+      "2": "in Mallorca",
+      "3": "or a complete household to",
+      "4": "Marbella, Barcelona, Alicante etc.,",
+      "5": "with us at your side everything will arrive safely and reliably at your desired location."
+    },
+    "p3": "Do you need packaging material, or would you like someone to pack your belongings safely and unpack them at your destination? We offer you a full service.",
+    "p4": "Of course, we will also be happy to undertake the dismantling and assembly of your furniture for you - after all, you want to feel comfortable in your new home as quickly as possible.",
+    "h4": "Questions about moving to Spain?",
+    "btn": {
+      "text": "Send us an enquiry",
+      "title": "Enquiry about removals, transport and additional cargo to Spain"
+    }
+  },
+  "uzm": {
+    "meta": {
+      "title": "Relocations and Transport to Mallorca",
+      "desc": "Relocations and Transport to Mallorca - with our own location in Mallorca - Stöber Transporte"
+    },
+    "img": "Relocations and Transport to Mallorca",
+    "h1": "Relocations and Transport to Mallorca",
+    "h2": "Your Advantages at a Glance:",
+    "p1": {
+      "1": "Are you planning a relocation or transport to Mallorca? Then you are exactly right with us! As a professional moving company with our own location in Mallorca, we offer you first-class services for your move to the sunny Balearic island. Our local presence allows us to guarantee you a smooth and stress-free move.",
+      "2": "Our experienced team accompanies you from the initial planning to the final implementation. We know the local conditions and legal regulations precisely and ensure that your belongings arrive safely and on time. Whether private move, company relocation, or special transports – we have the right solution for every concern.",
+      "3": "Contact us today for a non-binding offer and let yourself be convinced by our first-class service. With us, your move to Mallorca becomes a pleasant experience!"
+    },
+    "li": {
+      "1": "Own location in Mallorca: Through our on-site branch, we are always available for you and can respond flexibly to your wishes.",
+      "2": "Extensive experience: With years of expertise in international relocations, we offer you professional and reliable services.",
+      "3": "Individual consultation: We create tailor-made moving concepts that are precisely tailored to your needs.",
+      "4": "Safety and reliability: Your property is in the best hands with us. We use modern equipment and employ trained personnel.",
+      "5": "All-round service: From packing to transport to assembly – we take care of all details."
+    },
+    "h4": "Questions about transport or relocation to Mallorca?",
+    "btn": {
+      "text": "Submit Request",
+      "title": "Submit request for relocations and transports to Mallorca"
+    }
+  },
+  "ct": "Call us (+497631/7400600) or send us an email (team@stoeber-transporte.de)"
+}

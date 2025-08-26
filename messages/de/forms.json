@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "bl": {
+      "title": "Stöber Transporte - Anfrage für eine Beiladung",
+      "desc": "Stöber Transporte - Hier können Sie eine Anfrage für eine Beiladung stellen."
+    },
+    "lg": {
+      "title": "Stöber Transporte - Anfrage für eine Lagerung",
+      "desc": "Stöber Transporte - Hier können Sie eine Anfrage für eine Lagerung stellen."
+    },
+    "ml": {
+      "title": "Stöber Transporte - Anfrage für unseren Möbellift",
+      "desc": "Stöber Transporte - Hier können Sie eine Anfrage für den Möbellift (Umzugskran) stellen."
+    },
+    "ta": {
+      "title": "Stöber Transporte - Transportanfrage",
+      "desc": "Stöber Transporte -  Hier können Sie eine Transportanfrage stellen"
+    },
+    "uf": {
+      "title": "Stöber Transporte - Anfrage für eine Fahrzeugüberführung",
+      "desc": "Stöber Transporte - Hier können Sie eine Anfrage für eine Überführung Ihres Fahrzeuges stellen."
+    },
+    "uz": {
+      "title": "Stöber Transporte - Anfrage für Ihren Umzug",
+      "desc": "Stöber Transporte - Hier können Sie eine Anfrage für Ihren Umzug stellen."
+    }
+  },
+  "h1": {
+    "bl": "Anfrage für eine Beiladung",
+    "lg": "Anfrage für eine Lagerung",
+    "ml": "Anfrage für den Möbellift",
+    "ta": "Anfrage für einen Transport",
+    "fg": "Anfrage für eine Fahrzeugüberführung",
+    "uz": "Anfrage für einen Umzug",
+    "fo": "Formulare"
+  },
+  "h2ap": "Ansprechpartner",
+  "h2kd": "Kontaktdaten",
+  "h2lo": "Ladeort",
+  "h2ao": "Abladeort",
+  "h2eo": "Einsatzort",
+  "h2vp": "Verpackung",
+  "h2fz": "Fahrzeug",
+  "h2zs": "Zustand",
+  "h2w": "Ware",
+  "h2c": "Kommentar",
+  "h2al": "Anfang Lagerung",
+  "h2zr": "Zeitraum",
+  "h2mt": "Montage",
+  "h2pk": "Packen",
+  "pk": {
+    "pk0": "Kein Packen",
+    "pk1": "Einpacken",
+    "pk2": "Auspacken",
+    "pk3": "Beides"
+  },
+  "mont": {
+    "m0": "Keine Montage",
+    "m1": "Demontage",
+    "m2": "Montage",
+    "m3": "Beides"
+  },
+  "ldhaus": {
+    "ld0": "Haus",
+    "ld1": "Wohnung"
+  },
+  "ldaufzug": {
+    "ld0": "Kein Aufzug",
+    "ld1": "Aufzug"
+  },
+  "ldanz": {
+    "z0": "1 Zimmer",
+    "z1": "2 Zimmer",
+    "z2": "3 Zimmer",
+    "z3": "4 Zimmer",
+    "z4": "5 Zimmer",
+    "z5": "6 Zimmer",
+    "z6": "7 Zimmer",
+    "z7": "8 Zimmer",
+    "z8": "9 Zimmer",
+    "z9": "10 Zimmer"
+  },
+  "kfzart": {
+    "f0": "PKW",
+    "f1": "LKW",
+    "f2": "Traktor",
+    "f3": "Wohnmobil",
+    "f4": "Wohnwagen",
+    "f5": "Bus",
+    "f6": "Baumaschine"
+  },
+  "zustand": {
+    "zs1": "Fahrbereit",
+    "zs2": "Rollbar",
+    "zs3": "Nicht rollbar"
+  },
+  "zr": {
+    "m1": "1 Monat",
+    "m2": "2 Monate",
+    "m3": "3 Monate",
+    "m6": "6 Monate",
+    "mw": "bis auf Widerruf"
+  },
+  "dl": {
+    "ua": "Umzugsanfrage",
+    "ba": "Beiladungsanfrage",
+    "ll": "LKW-Leermeldung",
+    "ta": "Transportanfrage",
+    "ml": "Möbellift",
+    "fz": "Fahrzeugüberführung",
+    "al": "Lagerung"
+  },
+  "pl": {
+    "cname": "Name",
+    "firma": "Firma",
+    "phone": "Telefon",
+    "fax": "FAX",
+    "mobile": "Mobil",
+    "plz": "Postleitzahl",
+    "ort": "Ort",
+    "street": "Straße und Hausnummer",
+    "land": "Land",
+    "et": "Etage",
+    "vpart": "Art der Verpackung",
+    "vpanzahl": "Anzahl der Verpackungen",
+    "vpkb": "Kubikmeter",
+    "wgw": "Gewicht/Stück in kg",
+    "wmasse": "Maße/Stück (L,B,H in cm)",
+    "bf": "Balkon oder Fenster befahrbar?"
+  },
+  "ds": {
+    "agb": "AGB",
+    "ds": "Datenschutzerklärung",
+    "p1": "Ich habe die ",
+    "p2": "und",
+    "p3": "gelesen und verstanden."
+  },
+  "btn": "Abschicken"
+}

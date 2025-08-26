@@ -1,0 +1,17 @@
+header.header {
+  z-index: 1000;
+  position: fixed;
+  background: #fff;
+  width: 100%;
+  top: 0;
+
+  @media (max-width: 768px) {
+    img {
+      scale: 80%;
+    }
+  }
+}
+
+.unl {
+  border-bottom: 0.1rem solid #014993;
+}

@@ -1,0 +1,128 @@
+{
+  "removals": "Mudanzas",
+  "cargo": "Cargas adicionales",
+  "storage": "Almacenamiento",
+  "transports": "Transporte",
+  "vehicle transfer": "Traslado de vehículos",
+  "index": {
+    "h1": "Tu socio de mudanzas y transportes en el triángulo fronterizo",
+    "h2": {
+      "num1": "Mudanzas y transportes",
+      "span": "¡Con nosotros todo es seguro!"
+    },
+    "p1": {
+      "num1": "Nos encargamos de todo por usted",
+      "num2": "Transporte",
+      "num3": "hasta 25 toneladas de carga completa"
+    },
+    "p2": {
+      "num1": "Ya sea para:",
+      "num2": "Transporte de vehículos",
+      "num3": "o transporte de mercancías, tenemos el vehículo adecuado para usted en nuestra flota, desde turismos, furgonetas y camiones (con caja y plataforma elevadora a petición), semirremolques, camiones de plataforma baja, transportadores de coches hasta vehículos frigoríficos."
+    },
+    "li1": {
+      "title": "Enviar una solicitud de mudanza",
+      "text": "Solicitud de mudanza"
+    },
+    "li2": {
+      "title": "Enviar una solicitud de carga adicional",
+      "text": "Solicitud de carga adicional"
+    },
+    "li3": {
+      "title": "Enviar una solicitud para el traslado de un vehículo",
+      "text": "Traslado de vehículos"
+    },
+    "li4": {
+      "title": "Enviar una solicitud de transporte",
+      "text": "Solicitud de transporte"
+    },
+    "li5": {
+      "title": "Enviar una solicitud para elevador de muebles",
+      "text": "Elevador de muebles"
+    },
+    "dl": {
+      "title": "Mudanzas y transporte para España",
+      "btn1": {
+        "title": "más información sobre mudanzas",
+        "text": "MÁS INFORMACIÓN",
+        "text2": "ENVIAR SOLICITUD"
+      },
+      "btn2": {
+        "title": "más información sobre mudanzas y transporte para España"
+      },
+      "btn3": {
+        "title": "más información sobre cargas adicionales"
+      },
+      "btn4": {
+        "title": "más información sobre almacenamiento"
+      },
+      "btn5": {
+        "title": "más información sobre un elevador de muebles"
+      }
+    },
+    "dl1": "Ya sea para mudanzas privadas, corporativas o de oficina, nos encargamos de ello en Alemania, Europa y en el extranjero.",
+    "dl2": "Su especialista para España, península y Baleares, le ofrecemos viajes regulares de ida y vuelta.",
+    "dl3": "También entregamos las cargas adicionales de forma económica y puntual en toda Alemania y Europa.",
+    "dl4": "Almacenamos sus mercancías de forma segura en contenedores de acero con cerradura, contenedores de madera de seguridad o contenedores de transporte intercambiables en nuestra nave climatizada.",
+    "fz": {
+      "p1": "Tanto si no están matriculados como si no están listos para circular, con nuestro transportador de coches y plataforma baja llevamos sus vehículos, desde los más pequeños a los más grandes, de forma segura y fiable a su destino.",
+      "p2": "Camiones, autobuses, maquinaria de construcción, tractores, autocaravanas, caravanas y todo lo que rueda por Alemania y Europa: lo llevamos al lugar que usted desee.",
+      "title1": "más información sobre el traslado de un vehículo",
+      "title2": "Enviar una solicitud para el traslado de un vehículo",
+      "img": "Traslado de camiones, autobuses, maquinaria de construcción, tractores, autocaravanas, caravanas y todo lo que ruede."
+    },
+    "spain": {
+      "title": "Mudanzas y transportes a España",
+      "p": "Ya sea a la península, Mallorca o Marbella, gracias a nuestros muchos años de experiencia también podemos llevar sus mercancías a España de forma segura y sin preocupaciones.",
+      "title2": "más información sobre mudanzas y transportes a España (Mallorca, Marbella, Islas Baleares)"
+    },
+    "ml": {
+      "h2": "Elevador de muebles: ¡conducir en lugar de remolcar!",
+      "p1": "Nuestro elevador de muebles es el compañero ideal para cualquier situación",
+      "p2": "Especialmente en el caso de habitaciones de difícil acceso o habitaciones en pisos superiores que no tienen ascensor, nuestro elevador de muebles puede ahorrarle mucho tiempo.",
+      "p3": "El elevador de muebles puede extenderse hasta una altura de 25 metros y girarse 90 grados para facilitar la subida y bajada de objetos.",
+      "title": "Elevador de muebles también disponible en alquiler para su mudanza en Stöber Transporte"
+    },
+    "er": {
+      "h2": "Más de 30 años de Stöber Transporte",
+      "p1": "La empresa Stöber se fundó en 1991 y lleva más de 30 años siendo un socio",
+      "or": "competente a su",
+      "p2": "lado.",
+      "p3": "Si está planeando",
+      "unm": "una mudanza",
+      "p4": "a Mallorca, quiere trasladar su coche",
+      "trf": " o caravana,",
+      "p5": "o simplemente quiere guardar un mueble valioso,",
+      "el": "estaremos",
+      "p6": "encantados de ayudarle.",
+      "img": "Su profesional con más de 30 años de experiencia: mudanzas, transporte, traslado de vehículos, elevador de muebles y servicio de almacenamiento."
+    },
+    "footer": {
+      "h4": "Stöber - Transporte y mudanzas",
+      "img": "Stöber Transporte - Mudanzas, traslados de vehículos, elevadores de muebles y servicio de almacenamiento",
+      "img2": "La empresa Stöber-Transporte es miembro de la Bundesverband Möbelspedition und Logistik (AMÖ) e.V. (Asociación Federal de Expedición de Muebles y Logística).",
+      "imp": "Aviso legal",
+      "agb": "Términos y condiciones generales",
+      "ds": "Protección de datos",
+      "sa": "Ofertas de empleo",
+      "hi": "Información de responsabilidad"
+    },
+    "imp": {
+      "h2pa": "Dirección postal",
+      "h2pas": "Dirección postal España (Mallorca)",
+      "h2pa2": "Segunda dirección de la oficina",
+      "h2gs": "Director general",
+      "h2c": "Comunicación",
+      "h2hi": "Aviso de responsabilidad",
+      "phi": "A pesar de los estrictos controles, no asumimos ninguna responsabilidad por el contenido de los enlaces externos. Los gestores de las páginas vinculadas son los únicos responsables de su contenido."
+    }
+  },
+  "cb": {
+    "h1": "usamos cookies",
+    "p1": "Utilizamos",
+    "p2": " cookies ",
+    "p3": "para garantizar la mejor experiencia de usuario posible en nuestro sitio web",
+    "btn1": "Sí, me gustan las cookies.",
+    "btn2": "No más bien no."
+  }
+}

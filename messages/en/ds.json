@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Stöber Transporte - data protection",
+    "desc": "Stöber Transporte - Here you will find our data protection declaration and further information"
+  },
+  "h1": "data protection",
+  "h2": {
+    "1": "General note and mandatory information",
+    "2": "Revocation of your consent to data processing",
+    "3": "Right to lodge a complaint with the competent supervisory authority",
+    "4": "Right to data portability",
+    "5": "Right to information, correction, blocking, deletion",
+    "6": "SSL or TLS encryption",
+    "7": "Server log files",
+    "8": "contact form",
+    "9": "Cookies",
+    "10": "Google Ads",
+    "11": "Google Analytics"
+  },
+  "p1": {
+    "1": "The responsible body for data processing on this website is:",
+    "2": "The responsible body decides alone or together with others on the purposes and means of processing personal data (e.g. names, contact details, etc.)."
+  },
+  "p2": "Some data processing operations are only possible with your express consent. You can revoke your consent that you have already given at any time. An informal message by e-mail is sufficient for the revocation. The legality of the data processing that took place up until the revocation remains unaffected by the revocation.",
+  "p3": "As a data subject, you have the right to lodge a complaint with the competent supervisory authority in the event of a breach of data protection law. The competent supervisory authority with regard to data protection issues is the state data protection officer of the federal state in which our company is based. The following link provides a list of data protection officers and their contact details:",
+  "a3": "source",
+  "p4": "You have the right to have data that we process automatically on the basis of your consent or in fulfillment of a contract handed over to you or to third parties. It is provided in a machine-readable format. If you request the direct transfer of the data to another person responsible, this will only be done to the extent that it is technically feasible.",
+  "p5": "You have the right to free information about your stored personal data, the origin of the data, its recipient and the purpose of the data processing and, if necessary, a right to correction, blocking or deletion of this data at any time within the framework of the applicable legal provisions. You can contact us at any time using the contact options listed in the legal notice if you have any further questions on the subject of personal data.",
+  "p6": "For security reasons and to protect the transmission of confidential content that you send to us as the site operator, our website uses an SSL or. TLS encryption. This means that data that you transmit via this website cannot be read by third parties. You can recognize an encrypted connection by the \"https://\" address line of your browser and by the lock symbol in the browser line.",
+  "p7": {
+    "1": "The provider of the website automatically collects and stores information in server log files, which your browser automatically transmits to us. These are:",
+    "2": "This data is not merged with other data sources. The basis for data processing is Art. 6 Paragraph 1 lit. b GDPR, which allows the processing of data to fulfill a contract or pre-contractual measures."
+  },
+  "li7": {
+    "1": "Browser type and browser version",
+    "2": "Operating system used",
+    "3": "Referrer URL",
+    "4": "Host name of the accessing computer",
+    "5": "Time of server request",
+    "6": "IP address",
+    "7": "Location (only when signing the online order)",
+    "8": "Your signature (only when signing the online order)"
+  },
+  "p8": {
+    "1": "Data transmitted via the contact form will be stored, including your contact details, in order to be able to process your request or to be available for follow-up questions. This data will not be passed on without your consent.",
+    "2": "The data entered in the contact form is processed exclusively on the basis of your consent (Article 6 (1) (a) GDPR). You can revoke your consent that you have already given at any time. An informal message by e-mail is sufficient for the revocation. The legality of the data processing operations that took place up until the revocation remains unaffected by the revocation.",
+    "3": "Data transmitted via the contact form will remain with us until you ask us to delete it, revoke your consent to storage or there is no longer any need for data storage. Mandatory legal provisions - in particular retention periods - remain unaffected."
+  },
+  "p9": {
+    "1": "Our website uses cookies. These are small text files that your web browser stores on your end device. Cookies help us to make our offer more user-friendly, effective and secure.",
+    "2": "Some cookies are “session cookies.” Such cookies are automatically deleted at the end of your browser session. On the other hand, other cookies remain on your end device until you delete them yourself. Such cookies help us to recognize you when you return to our website.",
+    "3": "With a modern web browser you can monitor, restrict or prevent the setting of cookies. Many web browsers can be configured in such a way that cookies are automatically deleted when the program is closed. The deactivation of cookies can result in limited functionality of our website.",
+    "4": "The setting of cookies, which are necessary to carry out electronic communication processes or to provide certain functions you want (e.g. shopping cart), takes place on the basis of Art. 6 Para. 1 lit. f DSGVO. As the operator of this website, we have a legitimate interest in the storage of cookies for the technically error-free and smooth provision of our services. If other cookies are set (e.g. for analysis functions), they will be treated separately in this data protection declaration.",
+    "5": "Source: Data protection configurator from "
+  },
+  "p10": {
+    "1": "Our website uses Google Ads, a service provided by Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland.",
+    "2": "Google Ads allows us to place advertisements in the Google search engine or on third-party websites when users enter certain search terms on Google (keyword targeting). Additionally, targeted ads can be displayed based on user data available to Google (e.g., location data and interests) (audience targeting). As website operators, we cannot access this data. Google collects and processes this data in accordance with its own privacy policy.",
+    "3": "a) Purpose of Processing",
+    "4": "The use of Google Ads is for the purpose of making our website and our offers better known and specifically targeting users who have an interest in our products or services.",
+    "5": "b) Legal Basis",
+    "6": "The use of Google Ads is based on your consent in accordance with Art. 6 para. 1 lit. a GDPR.",
+    "7": "c) Data Transfer to Third Countries",
+    "8": "Google also processes your personal data in the USA. An adequate level of data protection is ensured by the EU Standard Contractual Clauses."
+  },
+  "p11": {
+    "1": "This website uses Google Analytics, a web analytics service provided by Google Ireland Limited. Google Analytics uses 'cookies', which are text files placed on your computer, to help the website analyze how users use the site.",
+    "2": "a) Purpose of Processing",
+    "3": "The information generated by the cookie about your use of this website is generally transmitted to and stored by Google on servers in the United States. We use Google Analytics exclusively with IP anonymization enabled, meaning that your IP address is truncated by Google within member states of the European Union or in other contracting states of the Agreement on the European Economic Area before being transmitted to the USA. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and truncated there.",
+    "4": "b) Legal Basis",
+    "5": "The data processing is based on your consent in accordance with Art. 6 para. 1 lit. a GDPR.",
+    "6": "c) Data Processing Agreement",
+    "7": "We have entered into a data processing agreement with Google and fully implement the strict requirements of the German data protection authorities when using Google Analytics.",
+    "8": "d) Objection to Data Collection",
+    "9": "You can prevent the storage of cookies by selecting the appropriate settings in your browser software; however, we point out that in this case, you may not be able to use the full functionality of this website. You can also prevent the collection of the data generated by the cookie and related to your use of the website (including your IP address) by Google, as well as the processing of this data by Google, by downloading and installing the browser plugin available at the following link: https://tools.google.com/dlpage/gaoptout?hl=en."
+  }
+}

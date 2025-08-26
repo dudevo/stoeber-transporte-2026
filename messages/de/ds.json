@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Stöber Transporte - Datenschutz",
+    "desc": "Stöber Transporte - Hier finden Sie unsere Datenschutzerklärung und weitere Informationen"
+  },
+  "h1": "Datenschutz",
+  "h2": {
+    "1": "Allgemeiner Hinweis und Pflichtinformationen",
+    "2": "Widerruf Ihrer Einwilligung zur Datenverarbeitung",
+    "3": "Recht auf Beschwerde bei der zuständigen Aufsichtsbehörde",
+    "4": "Recht auf Datenübertragbarkeit",
+    "5": "Recht auf Auskunft, Berichtigung, Sperrung, Löschung",
+    "6": "SSL- bzw. TLS-Verschlüsselung",
+    "7": "Server-Log-Dateien",
+    "8": "Kontaktformular",
+    "9": "Cookies",
+    "10": "Google Ads",
+    "11": "Google Analytics"
+  },
+  "p1": {
+    "1": "Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:",
+    "2": "Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.)."
+  },
+  "p2": "Nur mit Ihrer ausdrücklichen Einwilligung sind einige Vorgänge der Datenverarbeitung möglich. Ein Widerruf Ihrer bereits erteilten Einwilligung ist jederzeit möglich. Für den Widerruf genügt eine formlose Mitteilung per E-Mail. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.",
+  "p3": "Als Betroffener steht Ihnen im Falle eines datenschutzrechtlichen Verstoßes ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde bezüglich datenschutzrechtlicher Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem sich der Sitz unseres Unternehmens befindet. Der folgende Link stellt eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten bereit:",
+  "a3": "Quelle",
+  "p4": "Ihnen steht das Recht zu, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an Dritte aushändigen zu lassen. Die Bereitstellung erfolgt in einem maschinenlesbaren Format. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.",
+  "p5": "Sie haben jederzeit im Rahmen der geltenden gesetzlichen Bestimmungen das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, Herkunft der Daten, deren Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Diesbezüglich und auch zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit über die im Impressum aufgeführten Kontaktmöglichkeiten an uns wenden.",
+  "p6": "Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der „https://“ Adresszeile Ihres Browsers und am Schloss-Symbol in der Browserzeile.",
+  "p7": {
+    "1": "In Server-Log-Dateien erhebt und speichert der Provider der Website automatisch Informationen, die Ihr Browser automatisch an uns übermittelt. Dies sind:",
+    "2": "Es findet keine Zusammenführung dieser Daten mit anderen Datenquellen statt. Grundlage der Datenverarbeitung bildet Art. 6 Abs. 1 lit. b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet."
+  },
+  "li7": {
+    "1": "Browsertyp und Browserversion",
+    "2": "Verwendetes Betriebssystem",
+    "3": "Referrer URL",
+    "4": "Hostname des zugreifenden Rechners",
+    "5": "Uhrzeit der Serveranfrage",
+    "6": "IP-Adresse",
+    "7": "Standort (nur bei Unterzeichnung des Online-Auftrages)",
+    "8": "Ihre Unterschrifft (nur bei Unterzeichnung des Online-Auftrages)"
+  },
+  "p8": {
+    "1": "Per Kontaktformular übermittelte Daten werden einschließlich Ihrer Kontaktdaten gespeichert, um Ihre Anfrage bearbeiten zu können oder um für Anschlussfragen bereitzustehen. Eine Weitergabe dieser Daten findet ohne Ihre Einwilligung nicht statt.",
+    "2": "Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Ein Widerruf Ihrer bereits erteilten Einwilligung ist jederzeit möglich. Für den Widerruf genügt eine formlose Mitteilung per E-Mail. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.",
+    "3": "Über das Kontaktformular übermittelte Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder keine Notwendigkeit der Datenspeicherung mehr besteht. Zwingende gesetzliche Bestimmungen - insbesondere Aufbewahrungsfristen - bleiben unberührt."
+  },
+  "p9": {
+    "1": "Unsere Website verwendet Cookies. Das sind kleine Textdateien, die Ihr Webbrowser auf Ihrem Endgerät speichert. Cookies helfen uns dabei, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen.",
+    "2": "Einige Cookies sind “Session-Cookies.” Solche Cookies werden nach Ende Ihrer Browser-Sitzung von selbst gelöscht. Hingegen bleiben andere Cookies auf Ihrem Endgerät bestehen, bis Sie diese selbst löschen. Solche Cookies helfen uns, Sie bei Rückkehr auf unserer Website wiederzuerkennen.",
+    "3": "Mit einem modernen Webbrowser können Sie das Setzen von Cookies überwachen, einschränken oder unterbinden. Viele Webbrowser lassen sich so konfigurieren, dass Cookies mit dem Schließen des Programms von selbst gelöscht werden. Die Deaktivierung von Cookies kann eine eingeschränkte Funktionalität unserer Website zur Folge haben.",
+    "4": "Das Setzen von Cookies, die zur Ausübung elektronischer Kommunikationsvorgänge oder der Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (z.B. Warenkorb) notwendig sind, erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Als Betreiber dieser Website haben wir ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und reibungslosen Bereitstellung unserer Dienste. Sofern die Setzung anderer Cookies (z.B. für Analyse-Funktionen) erfolgt, werden diese in dieser Datenschutzerklärung separat behandelt.",
+    "5": "Quelle: Datenschutz-Konfigurator von "
+  },
+  "p10": {
+    "1": "Unsere Webseite nutzt Google Ads, einen Dienst der Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.",
+    "2": "Google Ads ermöglicht uns, Werbeanzeigen in der Google-Suchmaschine oder auf Websites Dritter zu schalten, wenn Nutzer bestimmte Suchbegriffe bei Google eingeben (Keyword-Targeting). Weiterhin können zielgerichtete Werbeanzeigen anhand der bei Google vorhandenen Nutzerdaten (z.B. Standortdaten und Interessen) ausgespielt werden (Zielgruppen-Targeting). Wir als Webseitenbetreiber können diese Daten nicht einsehen. Google selbst erhebt diese Daten und verarbeitet sie im Rahmen seiner eigenen Datenschutzerklärung.",
+    "3": "a) Zweck der Verarbeitung",
+    "4": "Die Verwendung von Google Ads erfolgt zu dem Zweck, unsere Webseite und unsere Angebote bekannter zu machen und gezielt Nutzer anzusprechen, die ein Interesse an unseren Produkten oder Dienstleistungen haben.",
+    "5": "b) Rechtsgrundlage",
+    "6": "Die Nutzung von Google Ads erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.",
+    "7": "c) Datenübermittlung in Drittländer",
+    "8": "Google verarbeitet Ihre personenbezogenen Daten auch in den USA. Ein angemessenes Datenschutzniveau wird durch die EU-Standardvertragsklauseln gewährleistet."
+  },
+  "p11": {
+    "1": "Diese Webseite nutzt Google Analytics, einen Webanalysedienst der Google Ireland Limited. Google Analytics verwendet „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen.",
+    "2": "a) Zweck der Verarbeitung",
+    "3": "Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Webseite werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Wir nutzen Google Analytics ausschließlich mit aktivierter IP-Anonymisierung, d.h., Ihre IP-Adresse wird von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übermittlung gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.",
+    "4": "b) Rechtsgrundlage",
+    "5": "Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.",
+    "6": "c) Auftragsverarbeitung",
+    "7": "Wir haben mit Google einen Vertrag zur Auftragsverarbeitung abgeschlossen und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um.",
+    "8": "d) Widerspruch gegen die Datenerfassung",
+    "9": "Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Webseite vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Webseite bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: https://tools.google.com/dlpage/gaoptout?hl=de."
+  }
+}

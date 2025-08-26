@@ -1,0 +1,128 @@
+{
+  "removals": "Removals",
+  "cargo": "Additional cargo",
+  "storage": "Storage",
+  "transports": "Transport operations",
+  "vehicle transfer": "Vehicle transport",
+  "index": {
+    "h1": "Your partner for removals & transport operations in the Dreiländereck (tri-border) region",
+    "h2": {
+      "num1": "Removals and transport operations",
+      "span": "With us everything arrives safely!"
+    },
+    "p1": {
+      "num1": "We will take care of all",
+      "num2": "transport operations",
+      "num3": "up to full loads of 25 tonnes"
+    },
+    "p2": {
+      "num1": "Whether it's for",
+      "num2": "transporting vehicles",
+      "num3": "or goods, you can select the right vehicle from our fleet, ranging from cars, vans and lorries (on request with box body and lifting platform), semi-trailers, low loaders and car transporters to refrigerated vehicles."
+    },
+    "li1": {
+      "title": "Send us a removal enquiry ",
+      "text": "Removal enquiry"
+    },
+    "li2": {
+      "title": "Send us an additional cargo enquiry",
+      "text": "Additional cargo enquiry"
+    },
+    "li3": {
+      "title": "Send us a vehicle transport enquiry",
+      "text": "Vehicle transport"
+    },
+    "li4": {
+      "title": "Send us a transport enquiry",
+      "text": "Transport enquiry"
+    },
+    "li5": {
+      "title": "Send us a furniture lift enquiry ",
+      "text": "Furniture lift"
+    },
+    "dl": {
+      "title": "Removals & transport to Spain",
+      "btn1": {
+        "title": "More information about removals",
+        "text": "FIND OUT MORE",
+        "text2": "SEND US AN ENQUIRY"
+      },
+      "btn2": {
+        "title": "More information about removals & transport to Spain"
+      },
+      "btn3": {
+        "title": "More information about additional cargo"
+      },
+      "btn4": {
+        "title": "More information about storage"
+      },
+      "btn5": {
+        "title": "More information about a furniture lift"
+      }
+    },
+    "dl1": "Whether it's a private, corporate or office removal, we will implement it for you domestically, within Europe and overseas.",
+    "dl2": "Your specialists for Spain, both the mainland and the Balearic Islands, offer regular round trips.",
+    "dl3": "We also deliver additional cargo cost-effectively and on time throughout Germany and Europe.",
+    "dl4": "We store your goods safely in lockable steel containers, wooden safety containers or interchangeable transport containers in our air-conditioned hall.",
+    "fz": {
+      "p1": "Whether your vehicle is deregistered or not ready to drive, with our car transporter & low loader we will bring it to its destination safely and reliably, no matter what its size.",
+      "p2": "We transport your trucks, buses, construction machinery, tractors, motorhomes, caravans and everything else with wheels to any desired location in Germany and Europe.",
+      "title1": "More information about vehicle transport",
+      "title2": "Send us a vehicle transport enquiry",
+      "img": "Shipping of trucks, buses, construction machinery, tractors, motorhomes, caravans and everything else with wheels."
+    },
+    "spain": {
+      "title": "Removals and transport to Spain",
+      "p": "Whether it's on the Spanish mainland, Mallorca or Marbella, with our many years of know-how we ship your goods to Spain safely and free from stress.",
+      "title2": "More information about removals and transport to Spain (Mallorca, Marbella, Balearic Islands)"
+    },
+    "ml": {
+      "h2": "Furniture lift - lifting instead of lugging!",
+      "p1": "Our furniture lift is the ideal companion for everyone",
+      "p2": "Our furniture lift can save you a lot of time, especially in hard-to-reach rooms or rooms on upper floors without a lift.",
+      "p3": "The furniture lift can be extended up to a height of 25 metres and rotated by 90 degrees to get objects into and out of it with ease.",
+      "title": "Stöber Transporte can also rent you a furniture lift for your move"
+    },
+    "er": {
+      "h2": "Over 30 years of Stöber Transporte",
+      "p1": "Stöber was founded in 1991 and has been at your service for over 30 years as a competent partner.",
+      "or": "o",
+      "p2": ".",
+      "p3": "Whether you are planning",
+      "unm": "a move to Mallorca,",
+      "p4": "wish to ship your car",
+      "trf": " or caravan",
+      "p5": "or simply store a valuable piece of furniture,",
+      "el": "we're",
+      "p6": "always happy to help.",
+      "img": "Your professional transport operators with over 30 years of experience in removals, transport, vehicle shipping, furniture lifts and storage."
+    },
+    "footer": {
+      "h4": "Stöber - transport operations & removals",
+      "img": "Stöber Transporte - removals, vehicle transport, furniture lifts and storage",
+      "img2": "Stöber Transporte is a member of the Federal Association of Furniture Transport and Logistics (Bundesverband Möbelspedition und Logistik - AMÖ) e.V.",
+      "imp": "Legal notice",
+      "agb": "GTCs",
+      "ds": "Data protection",
+      "sa": "Vacancies",
+      "hi": "Liability information"
+    },
+    "imp": {
+      "h2pa": "Postal address",
+      "h2pas": "Postal address Spain (Mallorca)",
+      "h2pa2": "Second office address",
+      "h2gs": "Managing Director",
+      "h2c": "Communications",
+      "h2hi": "Disclaimer",
+      "phi": "In spite of carefully checking the content, we accept no liability for the content of external links. The operators of the linked websites are exclusively responsible for their content."
+    }
+  },
+  "cb": {
+    "h1": "We use cookies",
+    "p1": "We use",
+    "p2": " cookies ",
+    "p3": "to ensure the best possible user experience on our website",
+    "btn1": "Yes, I like cookies.",
+    "btn2": "No rather not."
+  }
+}
