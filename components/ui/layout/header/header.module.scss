@@ -1,17 +1,31 @@
-header.header {
+.header {
   z-index: 1000;
   position: fixed;
   background: #fff;
   width: 100%;
   top: 0;
+  padding: 0.5rem 0; // Simplified padding
+  transition: padding 0.3s ease-in-out; // Smooth transition for scroll effect
+}
+
+/* This class is added on scroll */
+.unl {
+  border-bottom: 0.1rem solid #014993;
+  padding: 0.25rem 0; // Make header smaller on scroll
+}
+
+.logo {
+  height: 60px; // Adjust initial height
+  width: auto; // Let width scale automatically
+  max-width: 100%;
+  transition: height 0.3s ease-in-out; // Smooth transition for scroll effect
 
   @media (max-width: 768px) {
-    img {
-      scale: 80%;
-    }
+    height: 45px; // Slightly smaller logo on mobile
   }
 }
 
-.unl {
-  border-bottom: 0.1rem solid #014993;
+/* Make logo smaller when the header shrinks on scroll */
+.unl .logo {
+  height: 45px;
 }

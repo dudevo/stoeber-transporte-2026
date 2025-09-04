@@ -1,37 +1,3 @@
-// import s from "./balken.module.scss";
-//
-// const Balken = () => {
-//   return (
-//     <div className={s.balken}>
-//       <div className={`${s.balken__part} ${s.first} brn`}>
-//         <div className={s.balken__part__oben}>
-//           <div className="container mx-w-1000"></div>
-//         </div>
-//         <div className={s.balken__part__unten}></div>
-//       </div>
-//       <div className={`${s.balken__part} ${s.second}`}>
-//         <div className={s.balken__part__oben}></div>
-//         <div className={s.balken__part__unten}></div>
-//       </div>
-//       <div className={`${s.balken__part} ${s.third}`}>
-//         <div className={s.balken__part__oben}></div>
-//         <div className={s.balken__part__unten}></div>
-//       </div>
-//       <div className={`${s.balken__part} ${s.middle}`}>
-//         <div className={s.balken__part__oben}></div>
-//         <div className={s.balken__part__unten}></div>
-//       </div>
-//       <div className={`${s.balken__part} ${s.last}`}>
-//         <div className={s.balken__part__oben}></div>
-//         <div className={s.balken__part__unten}></div>
-//       </div>
-//     </div>
-//   );
-// };
-//
-// export default Balken;
-
-// /components/Header/Balken/Balken.jsx
 import s from "./balken.module.scss";
 
 // This configuration now perfectly describes the layout of each bar.

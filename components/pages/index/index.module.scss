@@ -1,0 +1,148 @@
+.index {
+  margin-top: 4rem;
+
+  @media (max-width: 600px) {
+    margin-top: 0.1rem;
+  }
+
+  .content {
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    width: 100%;
+    min-height: 10rem;
+
+    @media (max-width: 768px) {
+      flex-direction: column;
+      min-height: auto;
+    }
+
+    &Left {
+      display: flex;
+      flex-direction: column;
+      padding: 0 4rem 2rem 0;
+      width: 40rem;
+
+      @media (max-width: 768px) {
+        padding: 0 0 2rem 0;
+        width: 100%;
+        margin: -1.5rem 0 0.5rem 0;
+      }
+
+      h2 {
+        margin-bottom: 2rem;
+        font-size: 2rem;
+
+        span {
+          font-size: 1.6rem;
+          text-transform: none;
+
+          @media (max-width: 600px) {
+            font-size: 1.3rem;
+          }
+        }
+
+        @media (max-width: 600px) {
+          margin-top: 1rem;
+          margin-bottom: 1rem;
+          font-size: 1.4rem;
+        }
+      }
+
+      p {
+        margin-bottom: 1rem;
+      }
+    }
+
+    &Right {
+      border-top: 0.7rem solid #014993;
+      max-width: 450px;
+
+      >div {
+        position: unset !important;
+      }
+
+      img {
+        object-fit: contain;
+        width: 100% !important;
+        position: relative !important;
+        height: unset !important;
+      }
+
+      @media (max-width: 1024px) {
+        max-width: 300px !important;
+      }
+
+      @media (max-width: 768px) {
+        max-width: 100% !important;
+      }
+
+      .anfragen {
+        display: flex;
+        flex-direction: column;
+
+        ul {
+          width: 100% !important;
+
+          @media (max-width: 600px) {
+            margin: 0 !important;
+          }
+
+          li {
+            margin: 1rem 0 1rem 0;
+            min-width: 20rem;
+
+            @media (max-width: 600px) {
+              display: flex;
+              justify-content: center;
+              min-width: 10rem;
+              margin: 1rem 0 1rem 0;
+            }
+
+            a:link,
+            a:visited {
+              display: flex;
+              align-items: center;
+              text-decoration: none;
+              width: 100%;
+              justify-content: space-between;
+              background: #014993;
+              border: 0.1rem solid #014993;
+              font-size: 1.1rem;
+              padding: 0.5rem 1rem 0.5rem 2rem;
+              color: white;
+              transition: 0.3s all ease-in;
+
+              @media (max-width: 600px) {
+                padding: 0.5rem;
+              }
+
+              &:hover,
+              a:active {
+                background: white;
+                border: 0.1rem solid #014993;
+                color: #014993;
+
+                svg {
+                  color: #014993;
+                }
+              }
+
+              svg {
+                color: #fff;
+                width: 1.2rem;
+                height: 1.2rem;
+                font-size: 1.2rem;
+                margin-left: 1rem;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.w450 {
+  width: 450px !important;
+}

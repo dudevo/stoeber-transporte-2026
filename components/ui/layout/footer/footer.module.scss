@@ -1,0 +1,126 @@
+.info {
+  background-color: #014993;
+  color: #fff;
+  padding: 2.5rem 0;
+
+  a {
+    color: #fff;
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+
+  @media (max-width: 900px) {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2.5rem;
+  }
+}
+
+.logoWrapper {
+  .logoLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    padding: 1rem;
+    flex-shrink: 0;
+  }
+
+  .logoImage {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+}
+
+.contentWrapper {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: flex-end; // CHANGED: This aligns the columns to the bottom
+  gap: 3rem;
+
+  @media (max-width: 900px) {
+    flex-direction: column;
+    gap: 2.5rem;
+    width: 100%;
+    align-items: flex-start; // Reset for mobile stacking
+  }
+}
+
+.infoColumn {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.address {
+  font-style: normal;
+  line-height: 1.4;
+
+  h4 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #fff;
+  }
+}
+
+.contactList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+
+  li a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+}
+
+.linksList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+
+  li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+}
+
+.partnerWrapper {
+  flex-shrink: 0;
+
+  .amoeImage {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  @media (max-width: 900px) {
+    align-self: flex-end;
+  }
+}

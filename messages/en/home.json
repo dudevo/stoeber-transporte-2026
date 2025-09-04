@@ -1,10 +1,10 @@
 {
-  "removals": "Removals",
-  "cargo": "Additional cargo",
-  "storage": "Storage",
-  "transports": "Transport operations",
-  "vehicle transfer": "Vehicle transport",
   "index": {
+    "removals": "Removals",
+    "cargo": "Additional cargo",
+    "storage": "Storage",
+    "transports": "Transport operations",
+    "vehicle transfer": "Vehicle transport",
     "h1": "Your partner for removals & transport operations in the Dreiländereck (tri-border) region",
     "h2": {
       "num1": "Removals and transport operations",

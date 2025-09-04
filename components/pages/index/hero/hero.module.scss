@@ -1,0 +1,120 @@
+// :root {
+//   --color-primary-blue: #014993;
+//   --font-display: "Exo", sans-serif;
+// }
+//
+// .showCase {
+//   position: relative; // Parent must be relative for the 'fill' Image
+//   width: 100%; // Use 100% instead of 100vw to avoid potential horizontal scrollbars
+//   height: 70vh; // Give the section a height (e.g., viewport height)
+//   min-height: 400px; // Ensure it's not too small on tall/narrow screens
+//   max-height: 800px;
+//   display: flex; // Use flexbox to easily center the info content
+//   align-items: flex-end; // Align the text bar to the bottom
+//
+//   // Media query for smaller screens to adjust height
+//   @media (max-width: 768px) {
+//     height: 50vh;
+//     min-height: 300px;
+//   }
+// }
+//
+// .info {
+//   width: 100%;
+//   position: relative; // Keeps it in the layout flow but allows z-index
+//   z-index: 2; // Ensure the info bar is on top of the image (which is z-index: -1 by default with fill)
+// }
+//
+// .info__header {
+//   width: 100%;
+//   background: rgba(255, 255, 255, 0.75); // Slightly more opaque for readability
+//   backdrop-filter: blur(4px); // Adds a modern "glassmorphism" effect
+//   border-top: 1px solid rgba(255, 255, 255, 0.8);
+//
+//   // Use clamp() for fluid padding that scales with the viewport
+//   padding: clamp(1rem, 2vw, 2rem);
+//
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   min-height: 6rem;
+//
+//   @media (max-width: 768px) {
+//     min-height: 5rem;
+//   }
+// }
+//
+// .info__headerContainer {
+//   h1 {
+//     font-family: var(--font-display);
+//     font-weight: 800;
+//     color: var(--color-primary-blue);
+//     text-align: center;
+//
+//     font-size: clamp(1.2rem, 1rem + 2vw, 2.4rem);
+//   }
+// }
+
+:root {
+  --color-primary-blue: #014993;
+  --font-display: "Exo", sans-serif;
+}
+
+.showCase {
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  min-height: 400px;
+  max-height: 800px;
+  display: flex;
+  align-items: flex-end;
+
+  @media (max-width: 768px) {
+    height: 50vh;
+    min-height: 300px;
+  }
+}
+
+.info {
+  width: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+.info__header {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(4px);
+  border-top: 1px solid rgba(255, 255, 255, 0.8);
+  padding: clamp(1rem, 2vw, 2rem);
+  display: flex;
+  // We no longer need justify-content here, the child will center itself.
+  align-items: center;
+  min-height: 6rem;
+
+  @media (max-width: 768px) {
+    min-height: 5rem;
+  }
+}
+
+.info__headerContainer {
+  // --- THE DEFINITIVE FIX ---
+  // We are now forcing this container to center itself horizontally.
+  width: 100%;
+  max-width: 1200px; // IMPORTANT: Adjust this value to match your site's main content width.
+
+  // This is the most robust way to center a block element.
+  margin-left: auto;
+  margin-right: auto;
+
+  padding: 0 1rem;
+  box-sizing: border-box;
+
+  h1 {
+    font-family: var(--font-display);
+    font-weight: 800;
+    color: var(--color-primary-blue);
+    text-align: center;
+    font-size: clamp(1.2rem, 1rem + 2vw, 2.4rem);
+  }
+}

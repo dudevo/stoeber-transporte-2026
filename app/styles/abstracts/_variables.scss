@@ -3,55 +3,55 @@
 // ==========================================================================
 
 :root {
-  // --- Farben ---
-  // Basierend auf der bestehenden Seite, aber mit modernen, zugänglichen Tönen.
-  --color-primary: #004a99; // Ein tiefes, sattes Blau
-  --color-primary-light: #0d6efd; // Ein helleres Blau für Akzente & Hover
-  --color-secondary: #f0f6ff; // Ein sehr helles Blau für Hintergründe
-  --color-text: #333333; // Dunkles Grau für Lesbarkeit
-  --color-text-light: #666666; // Helleres Grau für sekundären Text
-  --color-white: #ffffff;
-  --color-border: #dee2e6;
-  --color-background: var(--color-white);
+    // --- Farben ---
+    // Basierend auf der bestehenden Seite, aber mit modernen, zugänglichen Tönen.
+    --color-primary: #004a99; // Ein tiefes, sattes Blau
+    --color-primary-light: #0d6efd; // Ein helleres Blau für Akzente & Hover
+    --color-secondary: #f0f6ff; // Ein sehr helles Blau für Hintergründe
+    --color-text: #333333; // Dunkles Grau für Lesbarkeit
+    --color-text-light: #666666; // Helleres Grau für sekundären Text
+    --color-white: #ffffff;
+    --color-border: #dee2e6;
+    --color-background: var(--color-white);
 
-  // --- Typografie ---
-  // Wir wählen moderne, gut lesbare Webfonts.
-  --font-family-sans:
-    "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
-    Arial, sans-serif;
-  --font-family-heading: "Poppins", var(--font-family-sans);
+    // --- Typografie ---
+    // Wir wählen moderne, gut lesbare Webfonts.
+    --font-family-sans:
+        "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+        Arial, sans-serif;
+    --font-family-heading: "Poppins", var(--font-family-sans);
 
-  // Flüssige Typografie mit clamp() für Skalierbarkeit
-  // https://css-tricks.com/simplified-fluid-typography/
-  --font-size-base: clamp(1rem, 0.95rem + 0.25vw, 1.125rem); // ~16px - 18px
-  --font-size-h1: clamp(2.44rem, 1.8rem + 3.2vw, 4.2rem); // ~39px - 67px
-  --font-size-h2: clamp(1.95rem, 1.5rem + 2.25vw, 3.15rem); // ~31px - 50px
-  --font-size-h3: clamp(1.56rem, 1.28rem + 1.4vw, 2.36rem); // ~25px - 38px
-  --font-size-h4: clamp(1.25rem, 1.1rem + 0.75vw, 1.77rem); // ~20px - 28px
-  --font-size-small: 0.8rem;
+    // Flüssige Typografie mit clamp() für Skalierbarkeit
+    // https://css-tricks.com/simplified-fluid-typography/
+    --font-size-base: clamp(1rem, 0.95rem + 0.25vw, 1.125rem); // ~16px - 18px
+    --font-size-h1: clamp(2.44rem, 1.8rem + 3.2vw, 4.2rem); // ~39px - 67px
+    --font-size-h2: clamp(1.95rem, 1.5rem + 2.25vw, 3.15rem); // ~31px - 50px
+    --font-size-h3: clamp(1.56rem, 1.28rem + 1.4vw, 2.36rem); // ~25px - 38px
+    --font-size-h4: clamp(1.25rem, 1.1rem + 0.75vw, 1.77rem); // ~20px - 28px
+    --font-size-small: 0.8rem;
 
-  --font-weight-regular: 400;
-  --font-weight-medium: 500;
-  --font-weight-bold: 700;
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-bold: 700;
 
-  --line-height-heading: 1.2;
-  --line-height-body: 1.6;
+    --line-height-heading: 1.2;
+    --line-height-body: 1.6;
 
-  // --- Layout & Abstände (Spacing) ---
-  // Ein konsistentes Spacing-System ist entscheidend.
-  --spacing-xs: 0.5rem; // 8px
-  --spacing-sm: 1rem; // 16px
-  --spacing-md: 2rem; // 32px
-  --spacing-lg: 4rem; // 64px
-  --spacing-xl: 6rem; // 96px
+    // --- Layout & Abstände (Spacing) ---
+    // Ein konsistentes Spacing-System ist entscheidend.
+    --spacing-xs: 0.5rem; // 8px
+    --spacing-sm: 1rem; // 16px
+    --spacing-md: 2rem; // 32px
+    --spacing-lg: 4rem; // 64px
+    --spacing-xl: 6rem; // 96px
 
-  // --- Container ---
-  --container-width: 1240px;
-  --container-padding: var(--spacing-sm);
+    // --- Container ---
+    --container-width: 1240px;
+    --container-padding: var(--spacing-sm);
 
-  // --- Sonstiges ---
-  --border-radius: 8px;
-  --transition-speed: 0.3s;
-  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  --box-shadow-hover: 0 8px 20px rgba(0, 0, 0, 0.12);
+    // --- Sonstiges ---
+    --border-radius: 8px;
+    --transition-speed: 0.3s;
+    --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    --box-shadow-hover: 0 8px 20px rgba(0, 0, 0, 0.12);
 }

@@ -4,6 +4,7 @@ import "../globals.scss";
 import Balken from "@/components/ui/elements/balken/balken";
 import Header from "@/components/ui/layout/header/header";
 import { routing } from "@/routing";
+import Footer from "@/components/ui/layout/footer/footer";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -26,6 +27,7 @@ export default async function LocaleLayout(props: Props) {
           <Header />
           <Balken></Balken>
           {children}
+          <Footer />
         </NextIntlClientProvider>
       </body>
     </html>

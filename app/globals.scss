@@ -1,17 +1,16 @@
-@forward "styles/abstracts/variables";
-@forward "styles/abstracts/mixins";
+@forward "./styles/abstracts/variables";
+@forward "./styles/abstracts/mixins";
+@forward "./styles/base/reset";
+@forward "./styles/base/base";
+@forward "./styles/base/typography";
 
-// 2. Base (Globale Styles, Resets, Typografie)
-@forward "styles/base/reset";
-@forward "styles/base/base";
-@forward "styles/base/typography";
-
+// 2. Tailwind CSS Directives
 @tailwind base;
-
-@custom-variant dark (&:is(.dark *));
 @tailwind components;
 @tailwind utilities;
 
+// 3. Tailwind CSS Theming Configuration
+// Maps our CSS variables to Tailwind's theme object.
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
@@ -50,6 +49,7 @@
   --color-sidebar-ring: var(--sidebar-ring);
 }
 
+// 4. CSS Custom Properties (Variables) for the Light Theme
 :root {
   --radius: 0.625rem;
   --background: oklch(1 0 0);
@@ -85,43 +85,9 @@
   --sidebar-ring: oklch(0.704 0.04 256.788);
 }
 
-.dark {
-  --background: oklch(0.129 0.042 264.695);
-  --foreground: oklch(0.984 0.003 247.858);
-  --card: oklch(0.208 0.042 265.755);
-  --card-foreground: oklch(0.984 0.003 247.858);
-  --popover: oklch(0.208 0.042 265.755);
-  --popover-foreground: oklch(0.984 0.003 247.858);
-  --primary: oklch(0.929 0.013 255.508);
-  --primary-foreground: oklch(0.208 0.042 265.755);
-  --secondary: oklch(0.279 0.041 260.031);
-  --secondary-foreground: oklch(0.984 0.003 247.858);
-  --muted: oklch(0.279 0.041 260.031);
-  --muted-foreground: oklch(0.704 0.04 256.788);
-  --accent: oklch(0.279 0.041 260.031);
-  --accent-foreground: oklch(0.984 0.003 247.858);
-  --destructive: oklch(0.704 0.191 22.216);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.551 0.027 264.364);
-  --chart-1: oklch(0.488 0.243 264.376);
-  --chart-2: oklch(0.696 0.17 162.48);
-  --chart-3: oklch(0.769 0.188 70.08);
-  --chart-4: oklch(0.627 0.265 303.9);
-  --chart-5: oklch(0.645 0.246 16.439);
-  --sidebar: oklch(0.208 0.042 265.755);
-  --sidebar-foreground: oklch(0.984 0.003 247.858);
-  --sidebar-primary: oklch(0.488 0.243 264.376);
-  --sidebar-primary-foreground: oklch(0.984 0.003 247.858);
-  --sidebar-accent: oklch(0.279 0.041 260.031);
-  --sidebar-accent-foreground: oklch(0.984 0.003 247.858);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.551 0.027 264.364);
-}
-
 @layer base {
   * {
-    @apply border-border outline-ring/50;
+    @apply border-border;
   }
 
   body {
@@ -139,6 +105,103 @@
 
 .st-container--flex {
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.brn {
+  border: none !important;
+}
+
+.bsha {
+  box-shadow: 0px 0px 16px -2px rgba(219, 219, 219, 0.7);
+}
+
+.b-t-blue {
+  border-top: 0.4rem solid #014993;
+
+  @media (max-width: 600px) {
+    border-top: none;
+    border-bottom: 0.1rem solid #eee;
+  }
+}
+
+.btn {
+  background: #014993;
+  text-decoration: none !important;
+  padding: 0.7rem 1.5rem 0.7rem 1.5rem;
+  color: #fff !important;
+  border: 0.1rem solid #014993;
+  cursor: pointer;
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  min-width: 15rem;
+  transition: 0.3s all ease-in;
+
+  &:hover,
+  &:active {
+    background: white;
+    border: 0.1rem solid #014993;
+    color: #014993 !important;
+  }
+
+  @media (max-width: 600px) {
+    width: 100%;
+  }
+}
+
+.btn-group {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+
+  a:link,
+  a:visited {
+    margin-right: 1rem;
+
+    @media (max-width: 600px) {
+      margin: 0 1rem 1rem 0;
+    }
+  }
+}
+
+.reverse {
+  background: white;
+  border: 0.1rem solid #014993;
+  color: #014993 !important;
+
+  &:hover,
+  &:active {
+    background: #014993 !important;
+    border: 0.1rem solid #014993 !important;
+    color: #fff !important;
+  }
+}
+
+.btn-small {
+  min-width: fit-content;
+  width: fit-content !important;
+  margin-top: 1rem;
+
+  @media (max-width: 600px) {
+    text-align: center;
+    min-width: 100%;
+  }
+}
+
+.small {
+  font-size: 0.8rem;
+
+  a:link,
+  a:visited {
+    font-size: 0.8rem;
+  }
+}
+
+h2 {
+  font-size: 1.5rem;
 }

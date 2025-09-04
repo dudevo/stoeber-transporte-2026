@@ -1,10 +1,10 @@
 {
-  "removals": "Umzüge",
-  "cargo": "Beiladungen",
-  "storage": "Lagerung",
-  "transports": "Transporte",
-  "vehicle transfer": "Fahrzeugüberführung",
   "index": {
+    "removals": "Umzüge",
+    "cargo": "Beiladungen",
+    "storage": "Lagerung",
+    "transports": "Transporte",
+    "vehicle transfer": "Fahrzeugüberführung",
     "h1": "Ihr Umzug & Transport Partner im Dreiländereck",
     "h2": {
       "num1": "Umzüge und Transporte",

@@ -1,10 +1,10 @@
 {
-  "removals": "Mudanzas",
-  "cargo": "Cargas adicionales",
-  "storage": "Almacenamiento",
-  "transports": "Transporte",
-  "vehicle transfer": "Traslado de vehículos",
   "index": {
+    "removals": "Mudanzas",
+    "cargo": "Cargas adicionales",
+    "storage": "Almacenamiento",
+    "transports": "Transporte",
+    "vehicle transfer": "Traslado de vehículos",
     "h1": "Tu socio de mudanzas y transportes en el triángulo fronterizo",
     "h2": {
       "num1": "Mudanzas y transportes",

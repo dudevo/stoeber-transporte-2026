@@ -1,294 +1,280 @@
-nav.navigation {
-  .nav {
-    &__mobile {
+.nav__desktop {
+  display: none; // Hidden on mobile by default
+}
+
+// Styles apply only on screens wider than 900px
+@media (min-width: 901px) {
+  .nav__desktop {
+    display: block;
+  }
+
+  .nav__desktop>ul {
+    display: flex;
+    align-items: baseline;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .nav__desktop>ul>li {
+    padding: 0.5rem 0.8rem;
+  }
+
+  .nav__desktop a,
+  .nav__desktop .dropdown h3 {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #333;
+    white-space: nowrap;
+    transition: color 0.2s ease;
+  }
+
+  .nav__desktop a:hover,
+  .nav__desktop .dropdown h3:hover {
+    color: #014993;
+  }
+
+  .languageSwitcherWrapper {
+    padding: 0 0 0 1rem;
+  }
+
+  .dropdown {
+    position: relative;
+  }
+
+  .dropdown h3 {
+    cursor: pointer;
+  }
+
+  .dropdownContent {
+    display: block; // Keep as block for layout, control visibility with other properties
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    position: absolute;
+    top: 100%;
+    left: 90%;
+    transform: translateX(-50%) translateY(10px);
+    transition:
+      opacity 0.2s ease,
+      transform 0.2s ease,
+      visibility 0s 0.2s;
+    margin-top: 0.5rem;
+    z-index: 1020;
+    background-color: #ffffff;
+    padding: 0.5rem;
+    min-width: 14rem;
+    width: max-content;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    border: 1px solid #f0f0f0;
+
+    // Pseudo-element to create a small gap, making hover more stable
+    &::before {
+      content: "";
       position: absolute;
-      align-items: flex-end;
-      width: 100%;
-      top: 0;
+      bottom: 100%;
+      left: 0;
       right: 0;
-      display: none;
+      height: 0.5rem;
+      background-color: transparent;
+    }
+  }
+
+  // Show dropdown on hover of the parent .dropdown element
+  .dropdown:hover>.dropdownContent {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translateX(-50%) translateY(0);
+    transition-delay: 0s;
+  }
+
+  .dropdownContent ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .dropdownContent li {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+
+  .dropdownContent a {
+    display: block;
+    padding: 0.6rem 1rem;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .dropdownContent a:hover {
+    background-color: #f5f5f5;
+  }
+
+  .icon {
+    width: 18px;
+    height: 18px;
+  }
+}
+
+/* ============================================= */
+/* --- 2. Mobile Styles (Refactored) --- */
+/* ============================================= */
+.nav__mobile {
+  display: block; // Shown on mobile by default
+}
+
+@media (min-width: 901px) {
+  .nav__mobile {
+    display: none; // Hidden on desktop
+  }
+}
+
+.hamburgerButton {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: #333;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.mobileMenuOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #014993;
+  z-index: 50;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateX(100%);
+  transition: all 0.35s ease-in-out;
+
+  &.isOpen {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+  }
+}
+
+.mobileMenuHeader,
+.mobileMenuFooter {
+  flex-shrink: 0;
+  padding: 1rem 1.5rem;
+}
+
+.mobileMenuHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mobileLogoImage {
+  height: 40px;
+  width: auto;
+}
+
+.closeButton {
+  background: transparent;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.mobileMenuList {
+  flex-grow: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  list-style: none;
+  padding: 1rem 1.5rem;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  text-align: center;
+}
+
+.mobileMenuList>li>a {
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: #fff;
+}
+
+.mobileMenuList .dropdown h3 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex; // Use inline-flex so it doesn't take full width
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* --- Refactored Mobile Submenu Styles --- */
+.mobileSubMenu {
+  list-style: none;
+  padding: 0;
+  margin: 0; // Margin is handled by transition
+
+  // Collapse by default
+  max-height: 0;
+  overflow: hidden;
+
+  // Animate the properties
+  transition:
+    max-height 0.4s ease-in-out,
+    margin-top 0.4s ease-in-out;
+
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+
+  // Hide children when collapsed
+  &>* {
+    opacity: 0;
+    visibility: hidden;
+    transition:
+      opacity 0.2s ease,
+      visibility 0s 0.2s;
+  }
+
+  // Styles for the open state
+  &.isOpen {
+    margin-top: 0.75rem;
+    // A large enough value to accommodate all items
+    max-height: 1000px;
+
+    // Show children when open with a slight delay
+    &>* {
       opacity: 1;
-      visibility: hidden;
-      margin: 4rem 0 0.5rem 0;
-
-      @media (max-width: 900px) {
-        visibility: visible;
-        display: flex;
-        margin: 4rem 0 0.5rem 0;
-      }
-
-      .logo {
-        visibility: hidden;
-        display: none;
-        width: 40%;
-        height: 100vh;
-        background: #fff;
-      }
-
-      select {
-        max-width: 4rem;
-        margin: 0.5rem 0 0.5rem 1.2rem;
-        border: none;
-        outline: none;
-        border-radius: 5px;
-        padding: 0.3rem;
-      }
-
-      ul {
-        visibility: hidden;
-        display: none;
-
-        li {
-          display: flex;
-          color: #fff;
-          font-weight: 600;
-          line-height: 1.2;
-
-          a {
-            font-weight: 300;
-            margin-left: 1.3rem;
-          }
-        }
-      }
-
-      .toggler {
-        position: absolute;
-        top: -20px;
-        right: 1.7rem;
-        z-index: 2;
-        cursor: pointer;
-        opacity: 0;
-        width: 2.5rem;
-        height: 2.5rem;
-      }
-
-      .hamburger {
-        position: absolute;
-        z-index: 1;
-        width: 40px;
-        height: 40px;
-        padding: 0.6rem;
-        top: -35px;
-        right: 30px;
-        background: #014993;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-
-      .hamburger>div {
-        position: relative;
-        flex: none;
-        width: 100%;
-        height: 0.1rem;
-        background: #fff;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        transition: all 0.4s ease;
-      }
-
-      .hamburger>div::before,
-      .hamburger>div::after {
-        content: "";
-        position: absolute;
-        z-index: 1;
-        top: -10px;
-        width: 100%;
-        height: 0.1rem;
-        background: inherit;
-      }
-
-      .hamburger>div::after {
-        top: 10px;
-      }
-
-      .toggler:checked+.hamburger>div {
-        transform: rotate(135deg);
-      }
-
-      .toggler:checked+.hamburger {
-        right: 30px;
-        background: #014993;
-        top: -35px;
-      }
-
-      .toggler:checked+.hamburger>div:before,
-      .toggler:checked+.hamburger>div:after {
-        top: 0;
-        transform: rotate(90deg);
-      }
-
-      .toggler:checked~ul {
-        visibility: visible;
-        display: flex;
-        flex-direction: column;
-        width: 60%;
-        height: 100vh;
-        background: #014993;
-        margin-top: 2rem;
-        opacity: 0.95;
-
-        li {
-          visibility: visible;
-          display: flex;
-          flex-direction: column;
-          width: 100%;
-
-          &:first-child {
-            margin-top: 0.5rem;
-          }
-
-          padding: 0.5rem 0 0.5rem 0;
-
-          &:last-child {
-            border: none;
-            margin-bottom: 1rem;
-          }
-
-          a {
-            color: #fff;
-            font-size: 1.2rem;
-            text-decoration: none;
-            cursor: pointer;
-
-            @media (max-width: 600px) {
-              font-size: 1.1rem;
-            }
-          }
-
-          &:hover {
-            background: #014993;
-          }
-
-          h3 {
-            margin-bottom: 0.2rem;
-            margin-left: 1rem;
-            font-size: 1.2rem;
-            padding: 0.2rem;
-          }
-
-          ul {
-            visibility: visible;
-            display: block;
-            width: 100%;
-            margin-left: 0.5rem;
-
-            &:first-child {
-              margin-top: 0.2rem;
-            }
-          }
-
-          .hidden {
-            visibility: hidden;
-            display: none;
-          }
-        }
-      }
-
-      .toggler:checked~.logo {
-        visibility: visible;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
+      visibility: visible;
+      transition-delay: 0.2s;
     }
+  }
 
-    &__desktop {
-      display: flex;
-      margin-top: 1rem;
-
-      @media (max-width: 900px) {
-        display: none;
-        visibility: hidden;
-      }
-
-      ul {
-        display: flex;
-        align-items: center;
-
-        li {
-          padding: 0.9rem 0.7rem 0.9rem 0.7rem;
-          font-weight: 400;
-
-          a:link,
-          a:active,
-          a:visited {
-            text-decoration: none;
-            font-size: 1.2rem;
-
-            &:hover {
-              color: #014993;
-            }
-          }
-
-          span {
-            margin-left: 0.2rem;
-            margin-right: 0.2rem;
-            cursor: pointer;
-          }
-        }
-
-        .dropdown {
-          position: relative;
-          display: inline-block;
-
-          h3 {
-            display: flex;
-            align-items: flex-start;
-            border: none;
-            cursor: pointer;
-            padding: 0;
-            font-size: 1.1rem;
-            font-weight: 400;
-            text-transform: capitalize;
-
-            &:hover {
-              color: #014993;
-            }
-          }
-
-          ul.dropdownContent {
-            display: none;
-            position: absolute;
-            background-color: #fff;
-            min-width: 9rem;
-            padding: 0.3rem 0 0.3rem 0.3rem;
-            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-            z-index: 100;
-            opacity: 0.95;
-
-            li {
-              padding: 0.3rem 0 0.3rem 0.3rem;
-              line-height: 1.2;
-              text-transform: capitalize;
-
-              a:link,
-              a:active,
-              a:visited {
-                color: #333;
-                font-weight: 400;
-                font-size: 0.8rem;
-
-                &:hover {
-                  color: #014993;
-                }
-              }
-
-              &:last-child {
-                border: none;
-              }
-            }
-          }
-        }
-
-        .dropdown:hover .dropdownContent {
-          display: block;
-          background: #fff;
-          width: 100%;
-          box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-        }
-      }
-    }
+  // Link styles within the submenu
+  li a {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: #fff;
+    opacity: 0.9;
+    text-decoration: none;
   }
 }
