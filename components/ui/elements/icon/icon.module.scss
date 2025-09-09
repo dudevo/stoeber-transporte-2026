@@ -1,0 +1,50 @@
+.loader {
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Circle wrapper */
+.iconWrapper {
+  /* Use a CSS var for diameter so TS can set it inline */
+  inline-size: var(--icon-diameter, 40px);
+  block-size: var(--icon-diameter, 40px);
+  aspect-ratio: 1 / 1;
+
+  display: inline-grid;
+  place-items: center;
+  /* perfect centering */
+  line-height: 0;
+  /* kill inline baseline quirks */
+
+  background-color: var(--color-primary);
+  border-radius: 50%;
+  box-sizing: border-box;
+  overflow: hidden;
+  margin: 0 0.5rem 0 0;
+  /* keeps svg inside the circle */
+
+  /* Center & size the glyph relative to the circle */
+  svg {
+    display: block;
+    inline-size: var(--glyph-size, 22px);
+    block-size: var(--glyph-size, 22px) !important;
+    color: white !important;
+    /* Optional: ensure transforms center on the path box if you tweak later */
+    transform-box: fill-box !important;
+    transform-origin: 50% 50% !important;
+    margin-right: 0 !important;
+  }
+}
+
+@keyframes pulse {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.6;
+  }
+}

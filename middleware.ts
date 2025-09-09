@@ -15,12 +15,10 @@ export default createMiddleware({
 });
 
 export const config = {
-  // --- THIS IS THE FIX ---
-  // A more robust matcher that includes paths without a locale prefix.
-  // It excludes common Next.js folders, API routes, and static files.
+  // Matcher that excludes static assets, API routes, and Next.js internal files
   matcher: [
     "/",
     "/(de|en|es)/:path*",
-    "/((?!api|_next/static|_next/image|favicon.ico).*)",
+    "/((?!api|_next/static|_next/image|images|favicon.ico|.*\\..*).*)",
   ],
 };

@@ -1,11 +1,13 @@
 import Image, { StaticImageData } from "next/image";
+
 import styles from "./service-page-layout.module.scss";
 import PageTitle from "../elements/page-title/page-title";
 
 interface ServicePageLayoutProps {
-  title: string;
+  title?: string;
   imageSrc: StaticImageData | string;
   imageAlt: string;
+  imageLicenceText?: string;
   children: React.ReactNode;
 }
 
@@ -13,16 +15,17 @@ export default function ServicePageLayout({
   title,
   imageSrc,
   imageAlt,
+  imageLicenceText,
   children,
 }: ServicePageLayoutProps) {
   return (
     <section className={styles.container}>
-      {/* 1. The PageTitle is now a direct child of the grid container */}
-      <div className={styles.pageTitle}>
-        <PageTitle>{title}</PageTitle>
-      </div>
+      {title && title.length && (
+        <div className={styles.pageTitle}>
+          <PageTitle>{title}</PageTitle>
+        </div>
+      )}
 
-      {/* 2. The main content is now in its own div */}
       <div className={styles.mainContent}>{children}</div>
 
       {/* 3. The image remains in its aside element */}
@@ -35,6 +38,9 @@ export default function ServicePageLayout({
           placeholder="blur"
           quality={80}
         />
+        {imageLicenceText && imageLicenceText?.length && (
+          <span>({imageLicenceText})</span>
+        )}
       </aside>
     </section>
   );

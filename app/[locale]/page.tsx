@@ -1,3 +1,5 @@
+// TODO: -> not responsive
+
 import Dienstleistungen from "@/components/pages/index/dienstleistungen/dienstleistungen";
 import Erfahrung from "@/components/pages/index/erfahrung/erfahrung";
 import Fahrzeugueberfuehrung from "@/components/pages/index/fahrzeugueberfuehrung/fahrzeugueberfuehrung";

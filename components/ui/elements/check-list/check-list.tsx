@@ -24,9 +24,7 @@ interface CheckListItemProps {
 export const CheckListItem = ({ children }: CheckListItemProps) => {
   return (
     <li className={styles.item}>
-      <span className={styles.iconWrapper}>
-        <CheckIcon />
-      </span>
+      <CheckIcon />
       <span>{children}</span>
     </li>
   );

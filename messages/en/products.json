@@ -426,5 +426,7 @@
       "title": "Submit request for relocations and transports to Mallorca"
     }
   },
-  "ct": "Call us (+497631/7400600) or send us an email (team@stoeber-transporte.de)"
+  "ct": {
+    "it": "Call us (+497631/7400600) or send us an email (team@stoeber-transporte.de)"
+  }
 }

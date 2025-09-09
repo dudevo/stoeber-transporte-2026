@@ -426,5 +426,7 @@
       "title": "Enviar solicitud para mudanzas y transportes a Mallorca"
     }
   },
-  "ct": "Llámenos (+497631/7400600) o envíenos un correo electrónico (team@stoeber-transporte.de)."
+  "ct": {
+    "it": "Llámenos (+497631/7400600) o envíenos un correo electrónico (team@stoeber-transporte.de)."
+  }
 }

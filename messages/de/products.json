@@ -426,5 +426,7 @@
       "title": "Anfrage für Umzüge und Transporte nach Mallorca stellen"
     }
   },
-  "ct": "Rufen Sie uns an (+497631/7400600) oder schicken Sie uns eine Mail (team@stoeber-transporte.de)"
+  "ct": {
+    "it": "Rufen Sie uns an (+497631/7400600) oder schicken Sie uns eine Mail (team@stoeber-transporte.de)"
+  }
 }

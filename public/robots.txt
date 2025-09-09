@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.stoeber-transporte.de/sitemap.xml

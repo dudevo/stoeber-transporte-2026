@@ -1,0 +1,94 @@
+// app/(components)/jobs/JobList.module.scss
+
+// Main container for all job listings
+.jobListContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem; // Increased gap between job cards
+}
+
+// Styling for a single job card
+.jobCard {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 2rem;
+  background-color: #ffffff;
+}
+
+// Job title
+.jobTitle {
+  font-size: 1.75rem; // Larger title
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+// Introductory description paragraph
+.jobDescription {
+  font-size: 1rem;
+  color: #4b5563;
+  margin-bottom: 1.5rem;
+  white-space: pre-wrap; // Preserves line breaks from the backend
+}
+
+// Container for meta info like start date and working time
+.jobMeta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #f3f4f6;
+  font-size: 0.9rem;
+}
+
+.metaItem {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #374151;
+}
+
+// Headings for "Dein Profil", "Deine Aufgaben", etc.
+.sectionTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--color-primary); // Using your primary color for headings
+}
+
+// The <ul> element for the bulleted lists
+.detailsList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+// Each <li> item in the list
+.detailItem {
+  display: flex;
+  align-items: flex-start; // Align icon to the top of the text
+  gap: 0.75rem;
+  color: #4b5563;
+  line-height: 1.6;
+}
+
+// The arrow icon within a list item
+.bulletIcon {
+  color: var(--color-primary);
+  flex-shrink: 0; // Prevents the icon from being squished
+  margin-top: 4px; // Fine-tune vertical alignment
+}
+
+// Fallback style for when no jobs are available
+.noJobs {
+  text-align: center;
+  padding: 2rem;
+  margin-top: 2rem;
+  background-color: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+}

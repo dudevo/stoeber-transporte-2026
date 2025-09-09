@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "bl": {
+      "title": "Stöber Transporte - enquiry about shipping as additional cargo",
+      "desc": "Stöber Transporte - you can make an enquiry about shipping as additional cargo here."
+    },
+    "lg": {
+      "title": "Stöber Transporte - storage enquiry",
+      "desc": "Stöber Transporte - you can make an enquiry about storage here."
+    },
+    "ml": {
+      "title": "Stöber Transporte - enquiry about our furniture lift",
+      "desc": "Stöber Transporte - you can make an enquiry about a furniture lift (removal crane)  here."
+    },
+    "ta": {
+      "title": "Stöber Transporte - transport enquiry",
+      "desc": "Stöber Transporte - you can make an enquiry about transport here."
+    },
+    "uf": {
+      "title": "Stöber Transporte - enquiry about vehicle transport",
+      "desc": "Stöber Transporte - you can make an enquiry about vehicle transport  here."
+    },
+    "uz": {
+      "title": "Stöber Transporte - enquiry about a removal",
+      "desc": "Stöber Transporte - you can make an enquiry about a removal here."
+    }
+  },
+  "h1": {
+    "bl": "Send us an additional cargo enquiry",
+    "lg": "Storage enquiry",
+    "ml": "Send us a furniture lift enquiry ",
+    "ta": "Send us a transport enquiry",
+    "fg": "Send us a vehicle transport enquiry",
+    "uz": "Send us a removal enquiry ",
+    "fo": "Forms"
+  },
+  "h2ap": "Contact person",
+  "h2kd": "Contact details",
+  "h2lo": "Place of loading",
+  "h2ao": "Place of unloading",
+  "h2eo": "Operational site",
+  "h2vp": "Packaging",
+  "h2fz": "Vehicle",
+  "h2zs": "condition",
+  "h2w": "Goods",
+  "h2c": "Comment",
+  "h2al": "Start of storage",
+  "h2zr": "Period",
+  "h2mt": "Assembly",
+  "h2pk": "Packing",
+  "pk": {
+    "pk0": "No packing",
+    "pk1": "Packing ",
+    "pk2": "Unpacking",
+    "pk3": "Both"
+  },
+  "mont": {
+    "m0": "No assembly",
+    "m1": "Dismantling",
+    "m2": "Assembly",
+    "m3": "Both"
+  },
+  "ldhaus": {
+    "ld0": "House",
+    "ld1": "Flat"
+  },
+  "ldaufzug": {
+    "ld0": "No lift",
+    "ld1": "Lift"
+  },
+  "ldanz": {
+    "z0": "1 room",
+    "z1": "2 rooms",
+    "z2": "3 rooms",
+    "z3": "4 rooms",
+    "z4": "5 rooms",
+    "z5": "6 rooms",
+    "z6": "7 rooms",
+    "z7": "8 rooms",
+    "z8": "9 rooms ",
+    "z9": "10 rooms"
+  },
+  "kfzart": {
+    "f0": "Car",
+    "f1": "Truck ",
+    "f2": "Tractor",
+    "f3": "Motorhome",
+    "f4": "Caravan",
+    "f5": "Bus",
+    "f6": "Construction machine"
+  },
+  "zustand": {
+    "zs1": "ready for driving",
+    "zs2": "rollable",
+    "zs3": "unrollable"
+  },
+  "zr": {
+    "m1": "1 month",
+    "m2": "2 months",
+    "m3": "3 months",
+    "m6": "6 months",
+    "mw": "until revoked"
+  },
+  "dl": {
+    "ua": "Removal enquiry",
+    "ba": "Additional cargo enquiry",
+    "ll": "Truck empty report",
+    "ta": "Transport enquiry",
+    "ml": "Furniture lift",
+    "fz": "Vehicle transport",
+    "al": "Storage"
+  },
+  "pl": {
+    "cname": "Name",
+    "firma": "Company",
+    "phone": "Telephone",
+    "fax": "Fax",
+    "mobile": "Mobile",
+    "plz": "Postcode",
+    "ort": "Town",
+    "street": "Street and no.",
+    "land": "Country",
+    "et": "Floor",
+    "vpart": "Type of packaging",
+    "vpanzahl": "Quantity of packaging",
+    "vpkb": "Cubic metres",
+    "wgw": "Weight/per piece in kg",
+    "wmasse": "Dimensions/per piece (L,W,H in cm)",
+    "bf": "Balcony or window accessible?"
+  },
+  "ds": {
+    "agb": "GTCs",
+    "ds": "Privacy policy",
+    "p1": "I have read ",
+    "p2": "and accepted",
+    "p3": "the GTCs."
+  },
+  "btn": "Send"
+}

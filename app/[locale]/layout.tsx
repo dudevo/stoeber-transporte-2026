@@ -5,6 +5,7 @@ import Balken from "@/components/ui/elements/balken/balken";
 import Header from "@/components/ui/layout/header/header";
 import { routing } from "@/routing";
 import Footer from "@/components/ui/layout/footer/footer";
+import Providers from "../(lib)/providers";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -26,7 +27,7 @@ export default async function LocaleLayout(props: Props) {
         <NextIntlClientProvider locale={locale}>
           <Header />
           <Balken></Balken>
-          {children}
+          <Providers>{children}</Providers>
           <Footer />
         </NextIntlClientProvider>
       </body>

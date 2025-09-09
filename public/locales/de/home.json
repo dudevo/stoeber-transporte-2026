@@ -1,0 +1,128 @@
+{
+  "removals": "Umzüge",
+  "cargo": "Beiladungen",
+  "storage": "Lagerung",
+  "transports": "Transporte",
+  "vehicle transfer": "Fahrzeugüberführung",
+  "index": {
+    "h1": "Ihr Umzug & Transport Partner im Dreiländereck",
+    "h2": {
+      "num1": "Umzüge und Transporte",
+      "span": "mit uns kommt alles sicher an!"
+    },
+    "p1": {
+      "num1": "Wir erledigen für Sie alle",
+      "num2": "Transporte",
+      "num3": "bis zur 25 Tonnen Komplett-Ladung"
+    },
+    "p2": {
+      "num1": "Egal ob für",
+      "num2": "Transporte von Fahrzeugen",
+      "num3": "oder Güter-Transporte, in unserem Fuhrpark steht das passende Fahrzeug für Sie bereit vom PKW, Transporter und LKW (auf Wunsch mit Koffer und Hebebühne), Sattel-Schlepper, Tieflader, Autotransporter bis zum Kühlfahrzeug."
+    },
+    "li1": {
+      "title": "Anfrage für einen Umzug (deutschlandweit, europaweit, Spanien - Mallorca, Marbella) stellen",
+      "text": "Umzugsanfrage"
+    },
+    "li2": {
+      "title": "Anfrage für eine Beiladung stellen",
+      "text": "Beiladungsanfrage"
+    },
+    "li3": {
+      "title": "Anfrage für eine Fahrzeugüberführung stellen",
+      "text": "Fahrzeugüberführung"
+    },
+    "li4": {
+      "title": "Anfrage für einen Transport (deutschlandweit, europaweit, Spanien - Mallorca, Marbella) stellen",
+      "text": "Transportanfrage"
+    },
+    "li5": {
+      "title": "Anfrage für den Möbellift stellen",
+      "text": "Möbellift"
+    },
+    "dl": {
+      "title": "Umzüge & Transporte Spanien",
+      "btn1": {
+        "title": "mehr Informationen über Umzüge",
+        "text": "MEHR ERFAHREN",
+        "text2": "ANFRAGE STELLEN"
+      },
+      "btn2": {
+        "title": "mehr Informationen über Umzüge & Transporte Spanien (Festland, Mallorca, Marbella)"
+      },
+      "btn3": {
+        "title": "mehr Informationen über Beiladungen"
+      },
+      "btn4": {
+        "title": "mehr Informationen über Lagerung"
+      },
+      "btn5": {
+        "title": "mehr Informationen über einen Möbellift"
+      }
+    },
+    "dl1": "Egal ob Privat-, Firmen-, oder Büroumzüge, wir übernehmen dass für Sie im Inland, Europa und Übersee.",
+    "dl2": "Ihr Spezialist für Spanien, Festland und Mallorca, bietet Ihnen regelmäßige Fahrten hin und zurück.",
+    "dl3": "Auch Beiladungen werden von uns kostengünstig und termingerecht Deutschland- und Europaweit zugestellt.",
+    "dl4": "Wir bewahren Ihre Güter in abschließbaren Stahlcontainern, Sicherheitsholzcontainern oder Wechseltransportbehältern sicher in unserer klimatisierter Halle auf.",
+    "fz": {
+      "p1": "Ob abgemeldet oder nicht fahrbereit, mit unserem Autotransporter & Tieflader bringen wir Ihre Fahrzeuge von Klein bis Groß sicher und zuverlässig ans Ziel.",
+      "p2": "LKW, Bus, Baumaschinen, Traktoren, Wohnmobil, Wohnwagen und alles was rollt deutschland- und europaweit bringen wir an Ihren Wunschstandort.",
+      "title1": "mehr Informationen über eine Fahrzeugüberführung",
+      "title2": "Anfrage für eine Fahrzeugüberführung stellen",
+      "img": "Fahrzeugüberführungen von LKW, BUS, Baumaschinen, Traktoren, Wohnmobil, Wohnwagen und alles was rollt."
+    },
+    "spain": {
+      "title": "Umzüge und Transporte nach Spanien",
+      "p": "Egal, ob aufs spanische Festland, Mallorca oder Marbella, mit unserem langjährigen Know-How bringen wir Ihre Güter sicher und stressfrei auch nach Spanien.",
+      "title2": "mehr Informationen über Umzüge und Transporte nach Spanien (Mallorca, Marbella, Balearen)"
+    },
+    "ml": {
+      "h2": "Möbellift - Fahren statt schleppen!",
+      "p1": "Unser Möbellift ist der ideale Begleiter für jeden",
+      "p2": "Besonders bei schwer zugänglichen Räumen oder Räumen in oberen Etagen, die über keinen Aufzug verfügen, kann unserer Möbellift viel Zeit sparen.",
+      "p3": "Der Möbellift kann bis zu einer Förderhöhe von 25 Metern ausgefahren und um 90 Grad gedreht werden, um Gegenstände leichter darauf bzw. wieder herunter zu bekommen.",
+      "title": "Möbellift auch zum Mieten für Ihren Umzug bei Stöber Transporte"
+    },
+    "er": {
+      "h2": "Über 30 Jahre Stöber Transporte",
+      "p1": "Die Firma Stöber wurde 1991 gegründet und steht bereits seit über 30 Jahren als kompetenter Partner an Ihrer Seite, wenn es um",
+      "or": "oder",
+      "p2": "geht.",
+      "p3": "Egal ob Sie einen",
+      "unm": "Umzug nach Mallorca",
+      "p4": "planen, Ihr Auto oder Ihren Wohnwagen",
+      "trf": "überführen",
+      "p5": "möchten oder einfach ein wertvolles Möbelstück",
+      "el": "einlagern",
+      "p6": "möchten, wir helfen Ihnen gerne weiter.",
+      "img": "Ihr Profi mit über 30 Jahren Erfahrung - Umzüge, Transporte, Fahrzeugüberführung, Möbellift und Lagerung."
+    },
+    "footer": {
+      "h4": "Stöber - Transporte & Umzüge",
+      "img": "Stöber Transporte - Umzüge (deutschlandweit, europaweit, Spanien - Mallorca, Marbella), Fahrzeugüberführung, Möbellift und Lagerung",
+      "img2": "Firma Stöber-Transporte ist Mitglied im Bundesverband Möbelspedition und Logistik (AMÖ) e.V.",
+      "imp": "Impressum",
+      "agb": "AGB",
+      "ds": "Datenschutz",
+      "sa": "Stellenangebote",
+      "hi": "Haftungsinformationen"
+    },
+    "imp": {
+      "h2pa": "Postanschrift",
+      "h2pas": "Postanschrift Spanien (Mallorca)",
+      "h2pa2": "Zweite Büro Anschrift",
+      "h2gs": "Geschäftsführer",
+      "h2c": "Kommunikation",
+      "h2hi": "Haftungshinweis",
+      "phi": "Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich."
+    }
+  },
+  "cb": {
+    "h1": "Wir benutzen Cookies",
+    "p1": "Für den bestmöglichen Bedienkomfort auf unserer Website benutzen wir",
+    "p2": " Cookies",
+    "p3": "",
+    "btn1": "Ja, ich mag Cookies.",
+    "btn2": "Nein, lieber nicht."
+  }
+}
