@@ -1,8 +1,9 @@
 {
-  "meta": {
-    "title": "Stöber Transporte - protección de Datos",
-    "desc": "Stöber Transporte - Aquí encontrará nuestra declaración de protección de datos y más información"
-  },
+  "datenschutz": {
+    "meta": {
+      "title": "Stöber Transporte - protección de Datos",
+      "desc": "Stöber Transporte - Aquí encontrará nuestra declaración de protección de datos y más información"
+    },
   "h1": "protección de Datos",
   "h2": {
     "1": "Nota general e información obligatoria",
@@ -31,7 +32,7 @@
     "1": "El proveedor del sitio web recopila y almacena automáticamente información en archivos de registro del servidor, que su navegador nos transmite automáticamente. Estos son:",
     "2": "Estos datos no se fusionan con otras fuentes de datos. La base para el procesamiento de datos es el Art. 6 Párrafo 1 letra b RGPD, que permite el procesamiento de datos para cumplir un contrato o medidas precontractuales."
   },
-  "li17": {
+  "li7": {
     "1": "Tipo de navegador y versión del navegador",
     "2": "sistema operativo utilizado",
     "3": "URL de referencia",
@@ -51,7 +52,7 @@
     "2": "Algunas cookies son \"cookies de sesión\". Dichas cookies se eliminan automáticamente al final de la sesión de su navegador. Por otro lado, otras cookies permanecen en su dispositivo final hasta que las elimine usted mismo. Estas cookies nos ayudan a reconocerlo cuando regresa a nuestro sitio web.",
     "3": "Con un navegador web moderno, puede monitorear, restringir o evitar la configuración de cookies. Muchos navegadores web se pueden configurar de tal manera que las cookies se eliminen automáticamente cuando se cierra el programa. La desactivación de las cookies puede resultar en una funcionalidad limitada de nuestro sitio web.",
     "4": "La configuración de cookies, que son necesarias para llevar a cabo procesos de comunicación electrónica o para proporcionar ciertas funciones que desea (por ejemplo, carrito de compras), se realiza sobre la base del Art. 6 Párrafo 1 letra f DSGVO. Como operador de este sitio web, tenemos un interés legítimo en el almacenamiento de cookies para la prestación de nuestros servicios técnicamente sin errores y sin problemas. Si se configuran otras cookies (por ejemplo, para funciones de análisis), se tratarán por separado en esta declaración de protección de datos.",
-    "5": "Fuente: Configurador de protección de datos de "
+    "5": "Fuente: Configurador de protección de datos de"
   },
   "p10": {
     "1": "Nuestro sitio web utiliza Google Ads, un servicio proporcionado por Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublín 4, Irlanda.",
@@ -72,6 +73,7 @@
     "6": "c) Acuerdo de procesamiento de datos",
     "7": "Hemos celebrado un acuerdo de procesamiento de datos con Google y cumplimos completamente con los estrictos requisitos de las autoridades alemanas de protección de datos al utilizar Google Analytics.",
     "8": "d) Oposición a la recopilación de datos",
-    "9": "Puede evitar el almacenamiento de cookies seleccionando la configuración apropiada en su software de navegador; sin embargo, señalamos que en este caso, es posible que no pueda utilizar la funcionalidad completa de este sitio web. También puede evitar la recopilación de los datos generados por la cookie y relacionados con su uso del sitio web (incluida su dirección IP) por parte de Google, así como el procesamiento de estos datos por parte de Google, descargando e instalando el complemento de navegador disponible en el siguiente enlace: https://tools.google.com/dlpage/gaoptout?hl=es."
+    "9": "Puede evitar el almacenamiento de cookies seleccionando la configuración apropiada en su software de navegador; sin embargo, señalamos que en este caso, es posible que no pueda utilizar la funcionalidad completa de este sitio web. También puede evitar la recolección de los datos generados por la cookie y relacionados con su uso del sitio web (incluida su dirección IP) por parte de Google, así como el procesamiento de estos datos por parte de Google, descargando e instalando el complemento de navegador disponible en el siguiente enlace: https://tools.google.com/dlpage/gaoptout?hl=es."
+  }
   }
 }

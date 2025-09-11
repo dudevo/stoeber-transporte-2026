@@ -193,14 +193,7 @@
 //   }
 // }
 
-// Re-using the variables for consistency
-:root {
-  --color-primary: #014993;
-  --color-light: #fff;
-  --color-text: #333;
-  --font-body: sans-serif;
-  --font-heading: "Exo", sans-serif;
-}
+// Variables are now defined in styles/variables.css
 
 // Main container for the grid of feature boxes
 .leistungen {

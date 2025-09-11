@@ -1,8 +1,9 @@
 {
-  "meta": {
-    "title": "Stöber Transporte - Allgemeine Geschäftsbedingungen",
-    "desc": "Stöber Transporte - Hier finden Sie unsere AGB"
-  },
+  "agb": {
+    "meta": {
+      "title": "Stöber Transporte - Allgemeine Geschäftsbedingungen",
+      "desc": "Stöber Transporte - Hier finden Sie unsere AGB"
+    },
   "h1": {
     "1": "Allgemeine Geschäftsbedingungen",
     "2": "für Umzüge und Lagerungen"
@@ -88,5 +89,6 @@
     "2": "Schulstraße 53 | 65795 Hattersheim",
     "3": "Tel.: 06190 989813 I Fax: 06190 989820",
     "4": "E-Mail: info@amoe.de | Internet: www.amoe.de"
+  }
   }
 }

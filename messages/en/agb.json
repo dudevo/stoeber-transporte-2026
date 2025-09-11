@@ -1,8 +1,9 @@
 {
-  "meta": {
-    "title": "Stöber Transporte - Terms and Conditions",
-    "desc": "Stöber Transporte - Here you will find our terms and conditions"
-  },
+  "agb": {
+    "meta": {
+      "title": "Stöber Transporte - Terms and Conditions",
+      "desc": "Stöber Transporte - Here you will find our terms and conditions"
+    },
   "h1": {
     "1": "Terms and Conditions",
     "2": "for removals and storage"
@@ -88,5 +89,6 @@
     "2": "Schulstraße 53 | 65795 Hattersheim",
     "3": "Tel.: 06190 989813 I Fax: 06190 989820",
     "4": "E-Mail: info@amoe.de | Internet: www.amoe.de"
+  }
   }
 }

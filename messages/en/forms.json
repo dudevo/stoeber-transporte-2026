@@ -25,15 +25,6 @@
       "desc": "Stöber Transporte - you can make an enquiry about a removal here."
     }
   },
-  "h1": {
-    "bl": "Send us an additional cargo enquiry",
-    "lg": "Storage enquiry",
-    "ml": "Send us a furniture lift enquiry ",
-    "ta": "Send us a transport enquiry",
-    "fg": "Send us a vehicle transport enquiry",
-    "uz": "Send us a removal enquiry ",
-    "fo": "Forms"
-  },
   "h2ap": "Contact person",
   "h2kd": "Contact details",
   "h2lo": "Place of loading",
@@ -102,6 +93,16 @@
     "mw": "until revoked"
   },
   "dl": {
+    "h1": {
+      "bl": "Send us an additional cargo enquiry",
+      "lg": "Storage enquiry",
+      "ml": "Send us a furniture lift enquiry ",
+      "ta": "Send us a transport enquiry",
+      "fg": "Send us a vehicle transport enquiry",
+      "uz": "Send us a removal enquiry ",
+      "fo": "Forms",
+      "li": "Links"
+    },
     "ua": "Removal enquiry",
     "ba": "Additional cargo enquiry",
     "ll": "Truck empty report",
@@ -109,6 +110,9 @@
     "ml": "Furniture lift",
     "fz": "Vehicle transport",
     "al": "Storage"
+  },
+  "links": {
+    "desc": "Here you can find useful links to our partners and local media."
   },
   "pl": {
     "cname": "Name",
@@ -135,5 +139,6 @@
     "p2": "and accepted",
     "p3": "the GTCs."
   },
-  "btn": "Send"
+  "btn": "Send",
+  "submitBtn": "Send"
 }

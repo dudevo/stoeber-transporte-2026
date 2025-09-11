@@ -1,3 +1,5 @@
+// TODO: layout must be fixed
+
 import { Metadata } from "next";
 
 import StellenangeboteImg from "../../../../../assets/images/stellenangebote.jpg";

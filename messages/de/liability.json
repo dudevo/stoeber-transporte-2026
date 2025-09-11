@@ -1,5 +1,10 @@
 {
-  "h1": "Haftungsinformationen des Möbelspediteurs gem. § 451g HGB und Verhalten im Schadensfall",
+  "haftung": {
+    "meta": {
+      "title": "Stöber Transporte - Haftungsinformationen",
+      "desc": "Stöber Transporte - Haftungsinformationen des Möbelspediteurs"
+    },
+    "h1": "Haftungsinformationen des Möbelspediteurs gem. § 451g HGB und Verhalten im Schadensfall",
   "h2": {
     "1": "Anwendungsbereich",
     "2": "Haftungsgrundsätze",
@@ -10,6 +15,7 @@
     "7": "Außervertragliche Ansprüche",
     "8": "Wegfall der Haftungsbefreiungen und -begrenzungen",
     "9": "Haftung der Leute",
+    "10": "Haftung Dritter",
     "11": "Transportversicherung",
     "12": "Schadensanzeige",
     "13": "Gefährliches Umzugsgut",
@@ -45,7 +51,7 @@
   "p11": "Der Möbelspediteur weist den Absender auf die Möglichkeit hin, das Gut gegen Bezahlung einer gesonderten Prämie zu versichern.",
   "p12": {
     "1": "Um das Erlöschen von Ersatzansprüchen zu verhindern, ist folgendes zu beachten:",
-    "2": "- Der Absender ist verpflichtet, das Gut bei Ablieferung auf äußerlich erkennbare Beschädigungen oder Verluste zu untersuchen. Diese sind auf der Empfangsbescheinigung bzw einem Schadensprotokoll spezifiziert festzuhalten oder dem Möbelspediteur <span>spätestens am Tag nach der Ablieferung</span> anzuzeigen.",
+    "2": "- Der Absender ist verpflichtet, das Gut bei Ablieferung auf äußerlich erkennbare Beschädigungen oder Verluste zu untersuchen. Diese sind auf der Empfangsbescheinigung bzw einem Schadensprotokoll spezifiziert festzuhalten oder dem Möbelspediteur spätestens am Tag nach der Ablieferung anzuzeigen.",
     "3": "- Äußerlich nicht erkennbare Beschädigungen oder Verluste müssen dem Möbelspediteur innerhalb von 14 Tagen nach Ablieferung spezifiziert angezeigt werden.",
     "4": "- Pauschale Schadensanzeigen genügen in keinem Fall.",
     "5": "- Ansprüche wegen Überschreitung der Lieferfristen erlöschen, wenn der Empfänger dem Möbelspediteur die Überschreitung nicht innerhalb von 21 Tagen nach Ablieferung anzeigt.",
@@ -82,5 +88,6 @@
     "14": "Bestätigung für Lagerdauerverlängerungen sofern beantragt",
     "15": "Zustandsbericht bei KFZ/Motoradtransporten",
     "16": "Schriftwechsel über Ersatzansprüche gegen Dritte"
+  }
   }
 }

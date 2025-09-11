@@ -1,0 +1,127 @@
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem 1.5rem;
+}
+
+.description {
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--color-text-secondary, #666);
+}
+
+/* content grid: illustration left, buttons right */
+.contentGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  align-items: center; /* center items vertically */
+
+  @media (min-width: 992px) {
+    grid-template-columns: auto 1fr;
+    gap: 4rem;
+    align-items: center;
+  }
+}
+
+.illustration {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+
+  @media (min-width: 992px) {
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+}
+
+.rightContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.pageTitle {
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.categoryGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem 2rem;
+  }
+}
+
+.categoryCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+  background-color: #274c88; /* base blue, close to screenshot */
+  color: #ffffff;
+  border-radius: 6px;
+  padding: 1.25rem 1.5rem;
+  border: none;
+  transition: background-color 0.15s ease, transform 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    background-color: #2b528f; /* very subtle change from base */
+    color: #f7f7f7; /* nearly white text */
+    text-decoration: none; /* ensure no underline on hover */
+    transform: translateY(-1px);
+  }
+}
+
+.cardTitle {
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.cardArrow {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-left: 1rem;
+}
+
+/* External links list styles */
+.linksList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.linkItem {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.linkIcon {
+  color: var(--color-primary, #274c88);
+  flex-shrink: 0;
+}
+
+.externalLink {
+  color: var(--color-primary, #274c88);
+  text-decoration: none;
+  font-size: 1.125rem;
+  font-weight: 500;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: var(--color-primary-dark, #1e4a96);
+    text-decoration: underline;
+  }
+}

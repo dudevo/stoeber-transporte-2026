@@ -1,5 +1,10 @@
 {
-  "h1": "Liability information of the furniture mover according to § 451g HGB and behavior in the event of damage",
+  "haftung": {
+    "meta": {
+      "title": "Stöber Transporte - Liability Information",
+      "desc": "Stöber Transporte - Liability information of the furniture mover"
+    },
+    "h1": "Liability information of the furniture mover according to § 451g HGB and behavior in the event of damage",
   "h2": {
     "1": "scope of application",
     "2": "Liability Principles",
@@ -83,5 +88,6 @@
     "14": "Confirmation for storage period extensions if requested",
     "15": "Status report for car/motorcycle transport",
     "16": "Correspondence regarding claims for compensation against third parties"
+  }
   }
 }

@@ -25,15 +25,6 @@
       "desc": "Stöber Transporte - Aquí puede enviar una solicitud para su mudanza."
     }
   },
-  "h1": {
-    "bl": "Solicitud de carga adicional",
-    "lg": "Solicitud de almacenamiento",
-    "ml": "Solicitud para elevador de muebles",
-    "ta": "Solicitud de transporte",
-    "fg": "Solicitud para el traslado de un vehículo",
-    "uz": "Solicitud de mudanza",
-    "fo": "Formularios"
-  },
   "h2ap": "Persona de contacto",
   "h2kd": "Datos de contacto",
   "h2lo": "Lugar de carga",
@@ -102,6 +93,16 @@
     "mw": "hasta su revocación"
   },
   "dl": {
+    "h1": {
+      "bl": "Solicitud de carga adicional",
+      "lg": "Solicitud de almacenamiento",
+      "ml": "Solicitud para elevador de muebles",
+      "ta": "Solicitud de transporte",
+      "fg": "Solicitud para el traslado de un vehículo",
+      "uz": "Solicitud de mudanza",
+      "fo": "Formularios",
+      "li": "Enlaces"
+    },
     "ua": "Solicitud de mudanza",
     "ba": "Solicitud de carga adicional",
     "ll": "Aviso de camión vacío",
@@ -109,6 +110,9 @@
     "ml": "Elevador de muebles",
     "fz": "Traslado de vehículos",
     "al": "Almacenamiento"
+  },
+  "links": {
+    "desc": "Aquí puede encontrar enlaces útiles a nuestros socios y medios locales."
   },
   "pl": {
     "cname": "Nombre",
@@ -135,5 +139,6 @@
     "p2": "y",
     "p3": "."
   },
-  "btn": "Enviar"
+  "btn": "Enviar",
+  "submitBtn": "Enviar"
 }

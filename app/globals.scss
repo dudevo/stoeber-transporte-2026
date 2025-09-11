@@ -4,6 +4,8 @@
 @forward "./styles/base/base";
 @forward "./styles/base/typography";
 
+@import "../styles/variables.css";
+
 @layer base {
   * {
     @apply border-border;

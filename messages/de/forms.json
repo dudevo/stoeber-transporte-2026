@@ -25,15 +25,6 @@
       "desc": "Stöber Transporte - Hier können Sie eine Anfrage für Ihren Umzug stellen."
     }
   },
-  "h1": {
-    "bl": "Anfrage für eine Beiladung",
-    "lg": "Anfrage für eine Lagerung",
-    "ml": "Anfrage für den Möbellift",
-    "ta": "Anfrage für einen Transport",
-    "fg": "Anfrage für eine Fahrzeugüberführung",
-    "uz": "Anfrage für einen Umzug",
-    "fo": "Formulare"
-  },
   "h2ap": "Ansprechpartner",
   "h2kd": "Kontaktdaten",
   "h2lo": "Ladeort",
@@ -102,6 +93,16 @@
     "mw": "bis auf Widerruf"
   },
   "dl": {
+    "h1": {
+      "bl": "Anfrage für eine Beiladung",
+      "lg": "Anfrage für eine Lagerung",
+      "ml": "Anfrage für den Möbellift",
+      "ta": "Anfrage für einen Transport",
+      "fg": "Anfrage für eine Fahrzeugüberführung",
+      "uz": "Anfrage für einen Umzug",
+      "fo": "Formulare",
+      "li": "Links"
+    },
     "ua": "Umzugsanfrage",
     "ba": "Beiladungsanfrage",
     "ll": "LKW-Leermeldung",
@@ -109,6 +110,9 @@
     "ml": "Möbellift",
     "fz": "Fahrzeugüberführung",
     "al": "Lagerung"
+  },
+  "links": {
+    "desc": "Hier finden Sie nützliche Links zu unseren Partnern und lokalen Medien."
   },
   "pl": {
     "cname": "Name",
@@ -135,5 +139,6 @@
     "p2": "und",
     "p3": "gelesen und verstanden."
   },
-  "btn": "Abschicken"
+  "btn": "Abschicken",
+  "submitBtn": "Abschicken"
 }

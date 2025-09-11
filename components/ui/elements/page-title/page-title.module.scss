@@ -4,7 +4,9 @@
   font-weight: 800;
   margin-bottom: 1.5rem;
   position: relative;
-  display: inline-block; // To make the pseudo-element fit the content
+  display: inline-flex;
+  align-items: center;
+  gap: 1rem;
 
   &::after {
     content: "";
@@ -14,5 +16,12 @@
     width: 60%; // Underline is not full-width
     height: 6px;
     background-color: #005a9c; // Slightly different blue for contrast
+  }
+
+  .icon {
+    font-size: 2rem;
+    color: var(--color-primary);
+    display: flex;
+    align-items: center;
   }
 }

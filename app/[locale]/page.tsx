@@ -1,4 +1,8 @@
 // TODO: -> not responsive
+// TODO: -> check if in all pages generateMetadata function exists
+// TODO: -> add google analytics
+// TODO: -> add cookie-consent-banner
+// TODO: -> check, if pages can be cached
 
 import Dienstleistungen from "@/components/pages/index/dienstleistungen/dienstleistungen";
 import Erfahrung from "@/components/pages/index/erfahrung/erfahrung";

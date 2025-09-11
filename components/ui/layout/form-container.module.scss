@@ -1,0 +1,39 @@
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem 1.5rem;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 3px solid #2757a8;
+}
+
+.iconWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f4f8;
+  border-radius: 50%;
+  padding: 0.75rem;
+}
+
+.title {
+  color: var(--color-primary, #2757a8);
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.formContent {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 2rem;
+  border: 1px solid #e9ecef;
+}

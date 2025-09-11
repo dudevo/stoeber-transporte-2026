@@ -1,8 +1,9 @@
 {
-  "meta": {
-    "title": "Stöber Transporte - Datenschutz",
-    "desc": "Stöber Transporte - Hier finden Sie unsere Datenschutzerklärung und weitere Informationen"
-  },
+  "datenschutz": {
+    "meta": {
+      "title": "Stöber Transporte - Datenschutz",
+      "desc": "Stöber Transporte - Hier finden Sie unsere Datenschutzerklärung und weitere Informationen"
+    },
   "h1": "Datenschutz",
   "h2": {
     "1": "Allgemeiner Hinweis und Pflichtinformationen",
@@ -51,7 +52,7 @@
     "2": "Einige Cookies sind “Session-Cookies.” Solche Cookies werden nach Ende Ihrer Browser-Sitzung von selbst gelöscht. Hingegen bleiben andere Cookies auf Ihrem Endgerät bestehen, bis Sie diese selbst löschen. Solche Cookies helfen uns, Sie bei Rückkehr auf unserer Website wiederzuerkennen.",
     "3": "Mit einem modernen Webbrowser können Sie das Setzen von Cookies überwachen, einschränken oder unterbinden. Viele Webbrowser lassen sich so konfigurieren, dass Cookies mit dem Schließen des Programms von selbst gelöscht werden. Die Deaktivierung von Cookies kann eine eingeschränkte Funktionalität unserer Website zur Folge haben.",
     "4": "Das Setzen von Cookies, die zur Ausübung elektronischer Kommunikationsvorgänge oder der Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (z.B. Warenkorb) notwendig sind, erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Als Betreiber dieser Website haben wir ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und reibungslosen Bereitstellung unserer Dienste. Sofern die Setzung anderer Cookies (z.B. für Analyse-Funktionen) erfolgt, werden diese in dieser Datenschutzerklärung separat behandelt.",
-    "5": "Quelle: Datenschutz-Konfigurator von "
+    "5": "Quelle: Datenschutz-Konfigurator von"
   },
   "p10": {
     "1": "Unsere Webseite nutzt Google Ads, einen Dienst der Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.",
@@ -73,5 +74,6 @@
     "7": "Wir haben mit Google einen Vertrag zur Auftragsverarbeitung abgeschlossen und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um.",
     "8": "d) Widerspruch gegen die Datenerfassung",
     "9": "Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Webseite vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Webseite bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: https://tools.google.com/dlpage/gaoptout?hl=de."
+  }
   }
 }
